@@ -7,20 +7,33 @@
 <link rel="manifest" href="manifest.json">
 <title>皮膚科英単語</title>
 <style>
-*{box-sizing:border-box}body{margin:0;background:#f5f7fa;color:#172033;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans JP",sans-serif}
-header{background:#17365d;color:white;padding:18px 18px 14px;position:sticky;top:0;z-index:5}
+*{box-sizing:border-box}
+body{margin:0;background:#f5f7fa;color:#172033;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans JP",sans-serif}
+header{background:#17365d;color:white;padding:18px 18px 14px;position:sticky;top:0;z-index:10}
 header h1{margin:0;font-size:22px}.sub{opacity:.8;font-size:13px;margin-top:4px}
 main{max-width:720px;margin:auto;padding:18px}.panel{background:white;border-radius:18px;padding:18px;margin-bottom:14px;box-shadow:0 2px 12px #0000000c}
 .stats{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px}.stat{background:#f0f3f7;border-radius:12px;padding:12px;text-align:center}.num{font-size:24px;font-weight:700}
-button,select,input{font:inherit}button{border:0;border-radius:12px;padding:13px 16px;background:#17365d;color:white;font-weight:600;cursor:pointer}.secondary{background:#e9edf3;color:#17365d}.danger{background:#b42318}
+button,select,input,textarea{font:inherit}button{border:0;border-radius:12px;padding:13px 16px;background:#17365d;color:white;font-weight:600;cursor:pointer}.secondary{background:#e9edf3;color:#17365d}.danger{background:#b42318}.green{background:#16834b}
 .actions{display:grid;gap:10px}.row{display:flex;gap:10px;flex-wrap:wrap}.row>*{flex:1}
-#study{display:none}.studyCard{min-height:330px;background:white;border-radius:24px;box-shadow:0 5px 25px #00000012;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:30px;cursor:pointer}
+#study,#manage{display:none}.studyCard{min-height:330px;background:white;border-radius:24px;box-shadow:0 5px 25px #00000012;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:30px;cursor:pointer}
 .cardText{font-size:42px;font-weight:700;line-height:1.3;word-break:break-word}.hint{margin-top:25px;color:#7a8493;font-size:14px}
 .progress{height:8px;background:#e4e8ee;border-radius:8px;overflow:hidden}.bar{height:100%;background:#17365d;width:0}
 .studyNav{display:flex;justify-content:space-between;align-items:center;margin:14px 0}.bigbtn{font-size:30px;padding:8px 20px}.mastered{background:#16834b}.unmastered{background:#e9edf3;color:#17365d}
-label{display:block;margin:13px 0 6px;font-weight:600}select,input[type=file]{width:100%;padding:11px;border:1px solid #ccd3dd;border-radius:10px;background:white}
+label{display:block;margin:13px 0 6px;font-weight:600}
+select,input[type=file],input[type=text],input[type=number],textarea{width:100%;padding:11px;border:1px solid #ccd3dd;border-radius:10px;background:white}
+textarea{min-height:80px;resize:vertical}
 small{color:#687385}.hidden{display:none!important}
-@media(max-width:500px){.cardText{font-size:34px}.studyCard{min-height:300px}main{padding:12px}}
+.manageItem{border:1px solid #e1e5eb;border-radius:14px;padding:13px;margin-top:10px;background:#fff}
+.manageTop{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}
+.manageJa{font-weight:700;font-size:18px}.manageEn{color:#475569;margin-top:4px;word-break:break-word}
+.manageMeta{font-size:12px;color:#7a8493;margin-top:6px}.manageBtns{display:flex;gap:6px;flex-shrink:0}
+.manageBtns button{padding:8px 10px;font-size:13px}
+.modalBack{position:fixed;inset:0;background:#0008;z-index:30;display:none;align-items:flex-end;justify-content:center}
+.modal{background:white;width:100%;max-width:720px;max-height:92vh;overflow:auto;border-radius:22px 22px 0 0;padding:20px}
+.modal h2{margin-top:0}.modalActions{display:flex;gap:10px;margin-top:18px}.modalActions>*{flex:1}
+.notice{background:#fff8df;border-radius:12px;padding:11px 13px;color:#6b5b00;font-size:13px;margin-top:10px}
+.searchRow{display:flex;gap:8px}.searchRow input{flex:1}.searchRow button{flex:0 0 auto}
+@media(max-width:500px){.cardText{font-size:34px}.studyCard{min-height:300px}main{padding:12px}.manageBtns{flex-direction:column}.modal{padding:16px}}
 </style>
 </head>
 <body>
@@ -40,6 +53,7 @@ small{color:#687385}.hidden{display:none!important}
 <button onclick="startStudy(false)">▶ すべての単語を学習</button>
 <button class="secondary" onclick="startStudy(true)">↻ 未習得だけ学習</button>
 <button class="secondary" onclick="toggleSettings()">⚙ 設定</button>
+<button class="secondary" onclick="openManage()">📝 単語を追加・編集・削除</button>
 </div>
 
 <div class="panel" id="settings" style="display:none">
@@ -62,9 +76,30 @@ small{color:#687385}.hidden{display:none!important}
 
 <div class="panel">
 <h3 style="margin-top:0">単語帳データ</h3>
-<small>CSVを読み込めます。Excelで「CSV UTF-8」で保存したファイルに対応。</small>
+<small>CSVを読み込めます。読み込みは現在の単語帳を置き換えます。</small>
 <input id="file" type="file" accept=".csv,.txt" style="margin-top:10px" onchange="importCSV(this.files[0])">
-<div class="row" style="margin-top:10px"><button class="secondary" onclick="exportCSV()">現在の単語帳をCSV保存</button><button class="danger" onclick="resetProgress()">学習状況をリセット</button></div>
+<div class="row" style="margin-top:10px">
+<button class="secondary" onclick="exportCSV()">現在の単語帳をCSV保存</button>
+<button class="danger" onclick="resetProgress()">学習状況をリセット</button>
+</div>
+<div class="notice">追加・編集・削除した単語は、このiPhoneのブラウザに保存されます。GitHub上の元ファイル自体は変更されません。バックアップにはCSV保存を使ってください。</div>
+</div>
+</main>
+
+<main id="manage">
+<div class="studyNav">
+<button class="secondary" onclick="closeManage()">← 戻る</button>
+<strong>単語の管理</strong>
+<button class="green" onclick="openEditor()">＋追加</button>
+</div>
+
+<div class="panel">
+<div class="searchRow">
+<input id="manageSearch" type="text" placeholder="日本語・英語・分類で検索" oninput="renderManage()">
+<button class="secondary" onclick="manageSearch.value='';renderManage()">クリア</button>
+</div>
+<div style="margin-top:12px"><small id="manageCount"></small></div>
+<div id="manageList"></div>
 </div>
 </main>
 
@@ -88,22 +123,51 @@ small{color:#687385}.hidden{display:none!important}
 </div>
 </main>
 
+<div class="modalBack" id="editorBack">
+<div class="modal">
+<h2 id="editorTitle">単語を追加</h2>
+<input type="hidden" id="editId">
+<label>日本語</label>
+<input id="editJa" type="text" placeholder="例：湿疹">
+<label>英語</label>
+<input id="editEn" type="text" placeholder="例：eczema">
+<label>分類</label>
+<input id="editCategory" type="text" placeholder="例：湿疹・皮膚炎">
+<label>章番号</label>
+<input id="editChapter" type="number" min="0" placeholder="例：7">
+<label>章名</label>
+<input id="editChapterName" type="text" placeholder="例：湿疹・皮膚炎">
+<div class="modalActions">
+<button class="secondary" onclick="closeEditor()">キャンセル</button>
+<button onclick="saveEditedCard()">保存</button>
+</div>
+</div>
+</div>
+
 <script>
 let cards=[], index=0, showingFront=true, deck=[], onlyUnmastered=false;
 let reverse=false,speakOn=true,autoPlay=false,frontSeconds=3,nextSeconds=3,timer=null;
 
+const $ = id => document.getElementById(id);
+
 async function init(){
   const saved=localStorage.getItem("dermCards");
-  if(saved) cards=JSON.parse(saved);
-  else {
+  if(saved) {
+    cards=JSON.parse(saved);
+  } else {
     cards=await fetch("data.json").then(r=>r.json());
-    cards=cards.map(x=>({...x,mastered:false}));
+    cards=cards.map((x,i)=>({...x,id:"seed-"+i,mastered:false}));
     save();
   }
+  // 既存バージョンのデータにもIDを付与
+  let changed=false;
+  cards.forEach((x,i)=>{if(!x.id){x.id="card-"+Date.now()+"-"+i;changed=true}});
+  if(changed) save();
+
   const s=localStorage.getItem("dermSettings");
   if(s) Object.assign(window,JSON.parse(s));
-  document.getElementById("frontSec").value=frontSeconds;
-  document.getElementById("nextSec").value=nextSeconds;
+  $("frontSec").value=frontSeconds;
+  $("nextSec").value=nextSeconds;
   updateHome();updateSettings();
   if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
 }
@@ -111,93 +175,151 @@ function save(){localStorage.setItem("dermCards",JSON.stringify(cards))}
 function saveSettings(){localStorage.setItem("dermSettings",JSON.stringify({reverse,speakOn,autoPlay,frontSeconds,nextSeconds}))}
 function updateHome(){
   const m=cards.filter(x=>x.mastered).length,u=cards.length-m;
-  total.textContent=cards.length;mastered.textContent=m;unmastered.textContent=u;
-  bar.style.width=(cards.length?m/cards.length*100:0)+"%";
-  headerSub.textContent=cards.length+"語";
+  $("total").textContent=cards.length;$("mastered").textContent=m;$("unmastered").textContent=u;
+  $("bar").style.width=(cards.length?m/cards.length*100:0)+"%";
+  $("headerSub").textContent=cards.length+"語";
 }
 function updateSettings(){
-  reverseText.textContent=reverse?"英語 → 日本語":"日本語 → 英語";
-  speakText.textContent=speakOn?"ON":"OFF";autoText.textContent=autoPlay?"ON":"OFF";
+  $("reverseText").textContent=reverse?"英語 → 日本語":"日本語 → 英語";
+  $("speakText").textContent=speakOn?"ON":"OFF";$("autoText").textContent=autoPlay?"ON":"OFF";
 }
-function toggleSettings(){settings.style.display=settings.style.display==="none"?"block":"none"}
+function toggleSettings(){$("settings").style.display=$("settings").style.display==="none"?"block":"none"}
+
 function startStudy(un){
   onlyUnmastered=un; deck=onlyUnmastered?cards.filter(x=>!x.mastered):[...cards];
   if(!deck.length){alert("未習得の単語はありません。");return}
-  index=0;showingFront=true;home.style.display="none";study.style.display="block";render();if(speakOn)speakCurrent();schedule();
+  index=0;showingFront=true;$("home").style.display="none";$("study").style.display="block";render();if(speakOn)speakCurrent();schedule();
 }
-function closeStudy(){clearTimeout(timer);study.style.display="none";home.style.display="block";updateHome()}
+function closeStudy(){clearTimeout(timer);$("study").style.display="none";$("home").style.display="block";updateHome()}
 function render(){
   const c=deck[index];
   const front=reverse?c.en:c.ja, back=reverse?c.ja:c.en;
-  cardText.textContent=showingFront?front:back;
-  hint.textContent="タップして"+(showingFront?"裏面":"表面");
-  counter.textContent=(index+1)+" / "+deck.length;
-  studyBar.style.width=((index+1)/deck.length*100)+"%";
-  masterBtn.textContent=c.mastered?"✓ 覚えた":"○ まだ";
-  masterBtn.className=c.mastered?"mastered":"unmastered";
+  $("cardText").textContent=showingFront?front:back;
+  $("hint").textContent="タップして"+(showingFront?"裏面":"表面");
+  $("counter").textContent=(index+1)+" / "+deck.length;
+  $("studyBar").style.width=((index+1)/deck.length*100)+"%";
+  $("masterBtn").textContent=c.mastered?"✓ 覚えた":"○ まだ";
+  $("masterBtn").className=c.mastered?"mastered":"unmastered";
 }
-function flip(){
-  showingFront=!showingFront;
-  render();
-  if(speakOn) speakCurrent();
-  schedule();
-}
+function flip(){showingFront=!showingFront;render();if(speakOn)speakCurrent();schedule()}
 function nextCard(){
-  clearTimeout(timer);
-  index=(index+1)%deck.length;
-  showingFront=true;
-  render();
-  if(speakOn) speakCurrent();
-  schedule();
+  clearTimeout(timer);index=(index+1)%deck.length;showingFront=true;render();if(speakOn)speakCurrent();schedule()
 }
 function prevCard(){
-  clearTimeout(timer);
-  index=(index-1+deck.length)%deck.length;
-  showingFront=true;
-  render();
-  if(speakOn) speakCurrent();
-  schedule();
+  clearTimeout(timer);index=(index-1+deck.length)%deck.length;showingFront=true;render();if(speakOn)speakCurrent();schedule()
 }
 function toggleMastered(){
-  const c=deck[index];
-  const original=cards.find(x=>x===c);
+  const c=deck[index]; const original=cards.find(x=>x.id===c.id);
   if(original) original.mastered=!original.mastered;
   save();render();updateHome();
 }
 function speakCurrent(){
   const c=deck[index];
-  const text=showingFront ? (reverse?c.en:c.ja) : (reverse?c.ja:c.en);
-  const lang=showingFront ? (reverse?"en-US":"ja-JP") : (reverse?"ja-JP":"en-US");
+  const text=showingFront?(reverse?c.en:c.ja):(reverse?c.ja:c.en);
+  const lang=showingFront?(reverse?"en-US":"ja-JP"):(reverse?"ja-JP":"en-US");
   if(!("speechSynthesis" in window)){alert("このブラウザでは音声読み上げに対応していません。");return}
-  speechSynthesis.cancel();
-  const u=new SpeechSynthesisUtterance(text);
-  u.lang=lang;
-  u.rate=lang==="ja-JP" ? .95 : .82;
-  speechSynthesis.speak(u);
+  speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang=lang;u.rate=lang==="ja-JP"?.95:.82;speechSynthesis.speak(u)
 }
 function schedule(){
-  clearTimeout(timer);
-  if(!autoPlay)return;
+  clearTimeout(timer);if(!autoPlay)return;
   timer=setTimeout(()=>{
-    if(showingFront){
-      showingFront=false;
-      render();
-      if(speakOn) speakCurrent();
-      schedule();
-    }else{
-      nextCard();
-    }
-  },(showingFront?frontSeconds:nextSeconds)*1000);
+    if(showingFront){showingFront=false;render();if(speakOn)speakCurrent();schedule()}
+    else nextCard()
+  },(showingFront?frontSeconds:nextSeconds)*1000)
 }
 function resetProgress(){if(confirm("学習状況をすべてリセットしますか？")){cards.forEach(x=>x.mastered=false);save();updateHome()}}
-function parseCSVLine(line){let a=[],cur="",q=false;for(let i=0;i<line.length;i++){let c=line[i];if(c=='"'){if(q&&line[i+1]=='"'){cur+='"';i++}else q=!q}else if(c==","&&!q){a.push(cur);cur=""}else cur+=c}a.push(cur);return a}
-function importCSV(file){
-  if(!file)return; const reader=new FileReader();
-  reader.onload=e=>{const lines=e.target.result.replace(/^\uFEFF/,"").split(/\r?\n/);let out=[];
-    for(let i=1;i<lines.length;i++){if(!lines[i].trim())continue;let c=parseCSVLine(lines[i]);if(c.length>=4){out.push({chapter:+c[0]||0,chapterName:c[1]||"",ja:c[2]||"",en:c[3]||"",category:c[4]||"",mastered:false})}}
-    if(out.length){cards=out;save();updateHome();alert(out.length+"語を読み込みました。")}else alert("読み込める単語がありません。");
-  };reader.readAsText(file,"UTF-8")
+
+function openManage(){
+  $("home").style.display="none";$("study").style.display="none";$("manage").style.display="block";
+  $("manageSearch").value="";renderManage();
 }
+function closeManage(){$("manage").style.display="none";$("home").style.display="block";updateHome()}
+
+function renderManage(){
+  const q=$("manageSearch").value.trim().toLowerCase();
+  const list=cards.filter(x=>{
+    if(!q)return true;
+    return [x.ja,x.en,x.category,x.chapterName,String(x.chapter)].join(" ").toLowerCase().includes(q);
+  });
+  $("manageCount").textContent=list.length+"語を表示 / 全"+cards.length+"語";
+  $("manageList").innerHTML=list.map(c=>`
+    <div class="manageItem">
+      <div class="manageTop">
+        <div>
+          <div class="manageJa">${escapeHtml(c.ja||"（日本語なし）")}</div>
+          <div class="manageEn">${escapeHtml(c.en||"（英語なし）")}</div>
+          <div class="manageMeta">${escapeHtml(c.category||"")} ${c.chapter?(" / 第"+c.chapter+"章"):""} ${c.mastered?" / ✓覚えた":""}</div>
+        </div>
+        <div class="manageBtns">
+          <button class="secondary" onclick="openEditor('${escapeAttr(c.id)}')">編集</button>
+          <button class="danger" onclick="deleteCard('${escapeAttr(c.id)}')">削除</button>
+        </div>
+      </div>
+    </div>`).join("");
+}
+function escapeHtml(s){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m]))}
+function escapeAttr(s){return String(s).replace(/\\/g,"\\\\").replace(/'/g,"\\'")}
+
+function openEditor(id=""){
+  $("editorBack").style.display="flex";
+  $("editId").value=id;
+  $("editorTitle").textContent=id?"単語を編集":"単語を追加";
+  if(id){
+    const c=cards.find(x=>x.id===id);
+    if(!c)return;
+    $("editJa").value=c.ja||"";$("editEn").value=c.en||"";$("editCategory").value=c.category||"";
+    $("editChapter").value=c.chapter||"";$("editChapterName").value=c.chapterName||"";
+  }else{
+    ["editJa","editEn","editCategory","editChapter","editChapterName"].forEach(id=>$(id).value="");
+  }
+  setTimeout(()=>$("editJa").focus(),100);
+}
+function closeEditor(){$("editorBack").style.display="none"}
+function saveEditedCard(){
+  const ja=$("editJa").value.trim(),en=$("editEn").value.trim();
+  if(!ja||!en){alert("日本語と英語は入力してください。");return}
+  const id=$("editId").value;
+  if(id){
+    const c=cards.find(x=>x.id===id);
+    if(c){c.ja=ja;c.en=en;c.category=$("editCategory").value.trim();c.chapter=Number($("editChapter").value)||0;c.chapterName=$("editChapterName").value.trim()}
+  }else{
+    cards.push({
+      id:"user-"+Date.now()+"-"+Math.random().toString(36).slice(2,8),
+      chapter:Number($("editChapter").value)||0,
+      chapterName:$("editChapterName").value.trim(),
+      ja,en,category:$("editCategory").value.trim(),mastered:false
+    });
+  }
+  save();updateHome();closeEditor();renderManage();
+}
+function deleteCard(id){
+  const c=cards.find(x=>x.id===id);
+  if(!c)return;
+  if(!confirm(`「${c.ja} / ${c.en}」を削除しますか？`))return;
+  cards=cards.filter(x=>x.id!==id);
+  save();updateHome();renderManage();
+}
+
+function importCSV(file){
+  if(!file)return;
+  const reader=new FileReader();
+  reader.onload=e=>{
+    const lines=e.target.result.replace(/^\uFEFF/,"").split(/\r?\n/);let out=[];
+    for(let i=1;i<lines.length;i++){
+      if(!lines[i].trim())continue;
+      let c=parseCSVLine(lines[i]);
+      if(c.length>=4)out.push({
+        id:"import-"+Date.now()+"-"+i,
+        chapter:+c[0]||0,chapterName:c[1]||"",ja:c[2]||"",en:c[3]||"",category:c[4]||"",mastered:false
+      })
+    }
+    if(out.length && confirm(out.length+"語を読み込みます。現在の単語帳を置き換えますか？")){
+      cards=out;save();updateHome();alert(out.length+"語を読み込みました。");
+    }else if(!out.length) alert("読み込める単語がありません。");
+  };
+  reader.readAsText(file,"UTF-8")
+}
+function parseCSVLine(line){let a=[],cur="",q=false;for(let i=0;i<line.length;i++){let c=line[i];if(c=='"'){if(q&&line[i+1]=='"'){cur+='"';i++}else q=!q}else if(c==","&&!q){a.push(cur);cur=""}else cur+=c}a.push(cur);return a}
 function exportCSV(){
   let s="\uFEFF章,章名,日本語,English,分類,覚えた\n"+cards.map(x=>[x.chapter,x.chapterName,x.ja,x.en,x.category,x.mastered?"○":"×"].map(v=>`"${String(v).replaceAll('"','""')}"`).join(",")).join("\n");
   const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([s],{type:"text/csv"}));a.download="皮膚科英単語.csv";a.click();
