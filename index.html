@@ -128,15 +128,15 @@ small{color:#687385}.hidden{display:none!important}
 <h2 id="editorTitle">単語を追加</h2>
 <input type="hidden" id="editId">
 <label>表</label>
-<input id="editJa" type="text" placeholder="例：湿疹">
+<input id="editJa" type="text" placeholder="日本語">
 <label>裏</label>
-<input id="editEn" type="text" placeholder="例：eczema">
+<input id="editEn" type="text" placeholder="英語">
 <div class="modalActions">
 <button class="secondary" onclick="closeEditor()">キャンセル</button>
 <button onclick="saveEditedCard()">保存</button>
 </div>
 </div>
-</div>
+</div></div>
 
 <script>
 let cards=[], index=0, showingFront=true, deck=[], onlyUnmastered=false;
@@ -167,7 +167,7 @@ async function init(){
   $("frontSec").value=frontSeconds;
   $("nextSec").value=nextSeconds;
   updateHome();updateSettings();
-  if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+  if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js?v=6");
 }
 function save(){localStorage.setItem("dermCards",JSON.stringify(cards))}
 function saveSettings(){localStorage.setItem("dermSettings",JSON.stringify({reverse,speakOn,autoPlay,frontSeconds,nextSeconds}))}
