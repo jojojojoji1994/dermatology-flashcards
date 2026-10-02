@@ -1,0 +1,10 @@
+{
+  "name": "皮膚科英単語",
+  "short_name": "皮膚科英単語",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#17365d",
+  "lang": "ja",
+  "icons": []
+}
