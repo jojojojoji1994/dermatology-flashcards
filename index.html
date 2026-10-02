@@ -76,7 +76,7 @@ small{color:#687385}.hidden{display:none!important}
 
 <div class="panel">
 <h3 style="margin-top:0">単語帳データ</h3>
-<small>CSVを読み込めます。読み込みは現在の単語帳を置き換えます。</small>
+<small>CSVを読み込めます。1列目＝表（日本語）、2列目＝裏（英語）です。読み込みは現在の単語帳を置き換えます。</small>
 <input id="file" type="file" accept=".csv,.txt" style="margin-top:10px" onchange="importCSV(this.files[0])">
 <div class="row" style="margin-top:10px">
 <button class="secondary" onclick="exportCSV()">現在の単語帳をCSV保存</button>
@@ -95,7 +95,7 @@ small{color:#687385}.hidden{display:none!important}
 
 <div class="panel">
 <div class="searchRow">
-<input id="manageSearch" type="text" placeholder="日本語・英語・分類で検索" oninput="renderManage()">
+<input id="manageSearch" type="text" placeholder="日本語・英語で検索" oninput="renderManage()">
 <button class="secondary" onclick="manageSearch.value='';renderManage()">クリア</button>
 </div>
 <div style="margin-top:12px"><small id="manageCount"></small></div>
@@ -127,16 +127,10 @@ small{color:#687385}.hidden{display:none!important}
 <div class="modal">
 <h2 id="editorTitle">単語を追加</h2>
 <input type="hidden" id="editId">
-<label>日本語</label>
+<label>表</label>
 <input id="editJa" type="text" placeholder="例：湿疹">
-<label>英語</label>
+<label>裏</label>
 <input id="editEn" type="text" placeholder="例：eczema">
-<label>分類</label>
-<input id="editCategory" type="text" placeholder="例：湿疹・皮膚炎">
-<label>章番号</label>
-<input id="editChapter" type="number" min="0" placeholder="例：7">
-<label>章名</label>
-<input id="editChapterName" type="text" placeholder="例：湿疹・皮膚炎">
 <div class="modalActions">
 <button class="secondary" onclick="closeEditor()">キャンセル</button>
 <button onclick="saveEditedCard()">保存</button>
@@ -159,9 +153,13 @@ async function init(){
     cards=cards.map((x,i)=>({...x,id:"seed-"+i,mastered:false}));
     save();
   }
-  // 既存バージョンのデータにもIDを付与
+  // 旧バージョンのデータを「日本語・英語・学習状態」だけに整理
   let changed=false;
-  cards.forEach((x,i)=>{if(!x.id){x.id="card-"+Date.now()+"-"+i;changed=true}});
+  cards = cards.map((x,i)=>{
+    const y={id:x.id || "card-"+Date.now()+"-"+i, ja:x.ja||"", en:x.en||"", mastered:!!x.mastered};
+    if(!x.id || x.category!==undefined || x.chapter!==undefined || x.chapterName!==undefined) changed=true;
+    return y;
+  });
   if(changed) save();
 
   const s=localStorage.getItem("dermSettings");
@@ -239,7 +237,7 @@ function renderManage(){
   const q=$("manageSearch").value.trim().toLowerCase();
   const list=cards.filter(x=>{
     if(!q)return true;
-    return [x.ja,x.en,x.category,x.chapterName,String(x.chapter)].join(" ").toLowerCase().includes(q);
+    return [x.ja,x.en].join(" ").toLowerCase().includes(q);
   });
   $("manageCount").textContent=list.length+"語を表示 / 全"+cards.length+"語";
   $("manageList").innerHTML=list.map(c=>`
@@ -248,7 +246,7 @@ function renderManage(){
         <div>
           <div class="manageJa">${escapeHtml(c.ja||"（日本語なし）")}</div>
           <div class="manageEn">${escapeHtml(c.en||"（英語なし）")}</div>
-          <div class="manageMeta">${escapeHtml(c.category||"")} ${c.chapter?(" / 第"+c.chapter+"章"):""} ${c.mastered?" / ✓覚えた":""}</div>
+          <div class="manageMeta">${c.mastered?"✓ 覚えた":"○ まだ"}</div>
         </div>
         <div class="manageBtns">
           <button class="secondary" onclick="openEditor('${escapeAttr(c.id)}')">編集</button>
@@ -267,10 +265,9 @@ function openEditor(id=""){
   if(id){
     const c=cards.find(x=>x.id===id);
     if(!c)return;
-    $("editJa").value=c.ja||"";$("editEn").value=c.en||"";$("editCategory").value=c.category||"";
-    $("editChapter").value=c.chapter||"";$("editChapterName").value=c.chapterName||"";
+    $("editJa").value=c.ja||"";$("editEn").value=c.en||"";
   }else{
-    ["editJa","editEn","editCategory","editChapter","editChapterName"].forEach(id=>$(id).value="");
+    ["editJa","editEn"].forEach(id=>$(id).value="");
   }
   setTimeout(()=>$("editJa").focus(),100);
 }
@@ -281,13 +278,11 @@ function saveEditedCard(){
   const id=$("editId").value;
   if(id){
     const c=cards.find(x=>x.id===id);
-    if(c){c.ja=ja;c.en=en;c.category=$("editCategory").value.trim();c.chapter=Number($("editChapter").value)||0;c.chapterName=$("editChapterName").value.trim()}
+    if(c){c.ja=ja;c.en=en}
   }else{
     cards.push({
       id:"user-"+Date.now()+"-"+Math.random().toString(36).slice(2,8),
-      chapter:Number($("editChapter").value)||0,
-      chapterName:$("editChapterName").value.trim(),
-      ja,en,category:$("editCategory").value.trim(),mastered:false
+      ja,en,mastered:false
     });
   }
   save();updateHome();closeEditor();renderManage();
@@ -308,9 +303,9 @@ function importCSV(file){
     for(let i=1;i<lines.length;i++){
       if(!lines[i].trim())continue;
       let c=parseCSVLine(lines[i]);
-      if(c.length>=4)out.push({
+      if(c.length>=2)out.push({
         id:"import-"+Date.now()+"-"+i,
-        chapter:+c[0]||0,chapterName:c[1]||"",ja:c[2]||"",en:c[3]||"",category:c[4]||"",mastered:false
+        ja:c[0]||"",en:c[1]||"",mastered:false
       })
     }
     if(out.length && confirm(out.length+"語を読み込みます。現在の単語帳を置き換えますか？")){
@@ -321,7 +316,7 @@ function importCSV(file){
 }
 function parseCSVLine(line){let a=[],cur="",q=false;for(let i=0;i<line.length;i++){let c=line[i];if(c=='"'){if(q&&line[i+1]=='"'){cur+='"';i++}else q=!q}else if(c==","&&!q){a.push(cur);cur=""}else cur+=c}a.push(cur);return a}
 function exportCSV(){
-  let s="\uFEFF章,章名,日本語,English,分類,覚えた\n"+cards.map(x=>[x.chapter,x.chapterName,x.ja,x.en,x.category,x.mastered?"○":"×"].map(v=>`"${String(v).replaceAll('"','""')}"`).join(",")).join("\n");
+  let s="\uFEFF表,裏\n"+cards.map(x=>[x.ja,x.en].map(v=>`"${String(v).replaceAll('"','""')}"`).join(",")).join("\n");
   const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([s],{type:"text/csv"}));a.download="皮膚科英単語.csv";a.click();
 }
 init();

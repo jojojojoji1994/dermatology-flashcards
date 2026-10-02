@@ -1,1 +1,2474 @@
-[{"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "表皮", "en": "epidermis", "category": "構造"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "基底層", "en": "basal layer / stratum basale", "category": "構造"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "有棘層", "en": "spinous layer / stratum spinosum", "category": "構造"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "顆粒層", "en": "granular layer / stratum granulosum", "category": "構造"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "角層", "en": "stratum corneum", "category": "構造"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "基底膜", "en": "basement membrane", "category": "構造"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "角化", "en": "keratinization", "category": "病態"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "ケラチン", "en": "keratin", "category": "構造"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "角質細胞間脂質", "en": "intercellular lipids", "category": "構造"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "メラノサイト", "en": "melanocyte", "category": "細胞"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "メラニン", "en": "melanin", "category": "病態"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "メラノソーム", "en": "melanosome", "category": "細胞"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "Langerhans細胞", "en": "Langerhans cell", "category": "細胞"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "Merkel細胞", "en": "Merkel cell", "category": "細胞"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "真皮", "en": "dermis", "category": "構造"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "膠原線維", "en": "collagen fibers", "category": "構造"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "弾性線維", "en": "elastic fibers", "category": "構造"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "線維芽細胞", "en": "fibroblast", "category": "細胞"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "肥満細胞", "en": "mast cell", "category": "細胞"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "皮下脂肪組織", "en": "subcutaneous adipose tissue", "category": "構造"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "毛包", "en": "hair follicle", "category": "付属器"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "脂腺", "en": "sebaceous gland", "category": "付属器"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "エクリン汗腺", "en": "eccrine sweat gland", "category": "付属器"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "アポクリン汗腺", "en": "apocrine sweat gland", "category": "付属器"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "爪甲", "en": "nail plate", "category": "付属器"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "爪母", "en": "nail matrix", "category": "付属器"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "I型アレルギー反応", "en": "type I hypersensitivity", "category": "免疫"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "II型アレルギー反応", "en": "type II hypersensitivity", "category": "免疫"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "III型アレルギー反応", "en": "type III hypersensitivity", "category": "免疫"}, {"chapter": 1, "chapterName": "皮膚の構造と機能", "ja": "IV型アレルギー反応", "en": "type IV hypersensitivity", "category": "免疫"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "表皮肥厚", "en": "epidermal hyperplasia / acanthosis", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "表皮萎縮", "en": "epidermal atrophy", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "過角化", "en": "hyperkeratosis", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "不全角化", "en": "parakeratosis", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "異常角化", "en": "dyskeratosis", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "顆粒層肥厚", "en": "hypergranulosis", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "顆粒変性", "en": "granular degeneration", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "海綿状態", "en": "spongiosis", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "細胞内浮腫", "en": "intracellular edema / ballooning degeneration", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "封入体", "en": "inclusion body", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "棘融解", "en": "acantholysis", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "水疱", "en": "blister / bulla", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "膿疱", "en": "pustule", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "表皮内細胞浸潤", "en": "intraepidermal cellular infiltration", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "経表皮性排除", "en": "transepidermal elimination", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "液状変性", "en": "interface dermatitis / liquefaction degeneration", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "炎症性細胞浸潤", "en": "inflammatory cell infiltration", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "肉芽腫", "en": "granuloma", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "巨細胞", "en": "giant cell", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "脂肪織炎", "en": "panniculitis", "category": "病理"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "蛍光抗体直接法", "en": "direct immunofluorescence (DIF)", "category": "検査"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "蛍光抗体間接法", "en": "indirect immunofluorescence (IIF)", "category": "検査"}, {"chapter": 2, "chapterName": "皮膚病理組織学", "ja": "免疫電顕", "en": "immunoelectron microscopy", "category": "検査"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "色素ネットワーク", "en": "pigment network", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "ドット", "en": "dots", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "グロビュール", "en": "globules", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "ストリーク", "en": "streaks", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "均一な青色調", "en": "homogeneous blue pigmentation", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "偽ネットワーク", "en": "pseudonetwork", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "parallel pattern", "en": "parallel pattern", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "multicomponent pattern", "en": "multicomponent pattern", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "樹枝状血管", "en": "arborizing vessels", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "青灰色球状構造", "en": "blue-gray globules", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "潰瘍", "en": "ulceration", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "spoke-wheel areas", "en": "spoke-wheel areas", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "leaf-like structures", "en": "leaf-like structures", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "shiny white areas", "en": "shiny white areas", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "面皰様開口", "en": "comedo-like openings", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "稗粒腫様嚢胞", "en": "milia-like cysts", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "指紋様構造", "en": "fingerprint-like structures", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "裂溝と隆起", "en": "fissures and ridges", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "赤色～暗色のlacunae", "en": "red to black lacunae", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "線状血管", "en": "linear vessels", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "糸球体状血管", "en": "glomerular vessels", "category": "ダーモスコピー"}, {"chapter": 3, "chapterName": "ダーモスコピー", "ja": "strawberry pattern", "en": "strawberry pattern", "category": "ダーモスコピー"}, {"chapter": 4, "chapterName": "発疹学", "ja": "紅斑", "en": "erythema", "category": "発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "紫斑", "en": "purpura", "category": "発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "色素斑", "en": "pigmented macule", "category": "発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "白斑", "en": "depigmented macule / leukoderma", "category": "発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "丘疹", "en": "papule", "category": "発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "結節", "en": "nodule", "category": "発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "腫瘤", "en": "tumor / mass", "category": "発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "水疱", "en": "vesicle / bulla", "category": "発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "膿疱", "en": "pustule", "category": "発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "嚢腫", "en": "cyst", "category": "発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "膨疹", "en": "wheal", "category": "発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "萎縮", "en": "atrophy", "category": "続発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "鱗屑", "en": "scale", "category": "続発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "痂皮", "en": "crust", "category": "続発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "胼胝", "en": "callus", "category": "続発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "鶏眼", "en": "corn", "category": "続発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "瘢痕", "en": "scar", "category": "続発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "ケロイド", "en": "keloid", "category": "続発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "表皮剥離", "en": "excoriation", "category": "続発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "びらん", "en": "erosion", "category": "続発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "潰瘍", "en": "ulcer", "category": "続発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "亀裂", "en": "fissure", "category": "続発疹"}, {"chapter": 4, "chapterName": "発疹学", "ja": "苔癬", "en": "lichen", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "苔癬化", "en": "lichenification", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "局面", "en": "plaque", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "乳頭腫症", "en": "papillomatosis", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "ざ瘡", "en": "acne", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "面皰", "en": "comedone", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "毛瘡", "en": "sycosis", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "紅皮症", "en": "erythroderma", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "黒皮症", "en": "melanoderma", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "網状皮斑", "en": "livedo reticularis", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "疱疹", "en": "herpes", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "膿痂疹", "en": "impetigo", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "粃糠疹", "en": "pityriasis", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "乾皮症", "en": "xerosis", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "魚鱗癬", "en": "ichthyosis", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "ポイキロデルマ", "en": "poikiloderma", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "硬化", "en": "sclerosis", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "脂漏", "en": "seborrhea", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "脱毛症", "en": "alopecia", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "掻痒症", "en": "pruritus", "category": "病変"}, {"chapter": 4, "chapterName": "発疹学", "ja": "Nikolsky現象", "en": "Nikolsky sign", "category": "徴候"}, {"chapter": 4, "chapterName": "発疹学", "ja": "Köbner現象", "en": "Koebner phenomenon", "category": "徴候"}, {"chapter": 4, "chapterName": "発疹学", "ja": "Darier徴候", "en": "Darier sign", "category": "徴候"}, {"chapter": 4, "chapterName": "発疹学", "ja": "Auspitz現象", "en": "Auspitz sign", "category": "徴候"}, {"chapter": 4, "chapterName": "発疹学", "ja": "皮膚描記症", "en": "dermographism", "category": "徴候"}, {"chapter": 5, "chapterName": "診断学", "ja": "パッチテスト", "en": "patch test", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "プリックテスト", "en": "prick test", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "皮内反応", "en": "intradermal test", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "薬剤リンパ球刺激試験", "en": "drug-induced lymphocyte stimulation test (DLST)", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "光線照射テスト", "en": "phototest", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "光パッチテスト", "en": "photopatch test", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "発汗機能検査", "en": "sweat function test", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "経表皮水分喪失量", "en": "transepidermal water loss (TEWL)", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "硝子圧法", "en": "diascopy", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "Wood灯検査", "en": "Wood's lamp examination", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "Tzanck試験", "en": "Tzanck test", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "ELISA", "en": "enzyme-linked immunosorbent assay (ELISA)", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "ウェスタンブロット法", "en": "Western blotting", "category": "検査"}, {"chapter": 5, "chapterName": "診断学", "ja": "遺伝子検査", "en": "genetic testing", "category": "検査"}, {"chapter": 6, "chapterName": "治療学", "ja": "軟膏", "en": "ointment", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "クリーム", "en": "cream", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "ゲル", "en": "gel", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "ローション", "en": "lotion", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "硬膏", "en": "plaster", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "ステロイド外用薬", "en": "topical corticosteroid", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "免疫抑制薬", "en": "immunosuppressant", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "抗真菌薬", "en": "antifungal agent", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "抗菌薬", "en": "antibacterial agent", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "活性型ビタミンD3", "en": "active vitamin D3", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "レチノイド", "en": "retinoid", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "イミキモド", "en": "imiquimod", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "尿素", "en": "urea", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "亜鉛華", "en": "zinc oxide", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "サリチル酸", "en": "salicylic acid", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "サンスクリーン剤", "en": "sunscreen", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "光線療法", "en": "phototherapy", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "レーザー療法", "en": "laser therapy", "category": "治療"}, {"chapter": 6, "chapterName": "治療学", "ja": "外科療法", "en": "surgical treatment", "category": "治療"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "湿疹", "en": "eczema", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "急性湿疹", "en": "acute eczema", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "慢性湿疹", "en": "chronic eczema", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "接触皮膚炎", "en": "contact dermatitis", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "アトピー性皮膚炎", "en": "atopic dermatitis", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "脂漏性皮膚炎", "en": "seborrheic dermatitis", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "貨幣状湿疹", "en": "nummular eczema", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "慢性単純性苔癬", "en": "lichen simplex chronicus", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "自家感作性皮膚炎", "en": "autoeczematization / id reaction", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "うっ滞性皮膚炎", "en": "stasis dermatitis", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "皮脂欠乏性湿疹", "en": "asteatotic eczema", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "汗疱", "en": "pompholyx", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "異汗性湿疹", "en": "dyshidrotic eczema", "category": "疾患"}, {"chapter": 7, "chapterName": "湿疹・皮膚炎", "ja": "Wiskott-Aldrich症候群", "en": "Wiskott-Aldrich syndrome", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "蕁麻疹", "en": "urticaria", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "急性蕁麻疹", "en": "acute urticaria", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "慢性蕁麻疹", "en": "chronic urticaria", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "接触蕁麻疹", "en": "contact urticaria", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "物理性蕁麻疹", "en": "physical urticaria", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "コリン性蕁麻疹", "en": "cholinergic urticaria", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "血管性浮腫", "en": "angioedema", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "食物依存性運動誘発アナフィラキシー", "en": "food-dependent exercise-induced anaphylaxis (FDEIA)", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "急性痒疹", "en": "acute prurigo", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "慢性痒疹", "en": "chronic prurigo", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "妊娠性痒疹", "en": "prurigo of pregnancy", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "多形妊娠疹", "en": "polymorphic eruption of pregnancy", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "色素性痒疹", "en": "prurigo pigmentosa", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "汎発性皮膚掻痒症", "en": "generalized pruritus", "category": "疾患"}, {"chapter": 8, "chapterName": "蕁麻疹・痒疹・皮膚掻痒症", "ja": "限局性皮膚掻痒症", "en": "localized pruritus", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "多形紅斑", "en": "erythema multiforme", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "Stevens-Johnson症候群", "en": "Stevens-Johnson syndrome (SJS)", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "Sweet症候群", "en": "Sweet syndrome", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "手掌紅斑", "en": "palmar erythema", "category": "所見"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "新生児中毒性紅斑", "en": "erythema toxicum neonatorum", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "遠心性環状紅斑", "en": "erythema annulare centrifugum", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "匍行性迂回状紅斑", "en": "erythema gyratum repens", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "壊死性遊走性紅斑", "en": "necrolytic migratory erythema", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "リウマチ性環状紅斑", "en": "erythema annulare rheumaticum", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "湿疹性紅皮症", "en": "eczematous erythroderma", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "薬剤性紅皮症", "en": "drug-induced erythroderma", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "乾癬性紅皮症", "en": "psoriatic erythroderma", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "腫瘍性紅皮症", "en": "paraneoplastic erythroderma", "category": "疾患"}, {"chapter": 9, "chapterName": "紅斑・紅皮症", "ja": "丘疹紅皮症", "en": "papular erythroderma", "category": "疾患"}, {"chapter": 10, "chapterName": "薬疹とGVHD", "ja": "薬疹", "en": "drug eruption", "category": "疾患"}, {"chapter": 10, "chapterName": "薬疹とGVHD", "ja": "アレルギー性薬疹", "en": "allergic drug eruption", "category": "病態"}, {"chapter": 10, "chapterName": "薬疹とGVHD", "ja": "非アレルギー性薬疹", "en": "non-allergic drug eruption", "category": "病態"}, {"chapter": 10, "chapterName": "薬疹とGVHD", "ja": "固定薬疹", "en": "fixed drug eruption", "category": "疾患"}, {"chapter": 10, "chapterName": "薬疹とGVHD", "ja": "中毒性表皮壊死症", "en": "toxic epidermal necrolysis (TEN)", "category": "疾患"}, {"chapter": 10, "chapterName": "薬疹とGVHD", "ja": "薬剤性過敏症症候群", "en": "drug-induced hypersensitivity syndrome (DIHS) / DRESS", "category": "疾患"}, {"chapter": 10, "chapterName": "薬疹とGVHD", "ja": "急性汎発性発疹性膿疱症", "en": "acute generalized exanthematous pustulosis (AGEP)", "category": "疾患"}, {"chapter": 10, "chapterName": "薬疹とGVHD", "ja": "手足症候群", "en": "hand-foot syndrome", "category": "疾患"}, {"chapter": 10, "chapterName": "薬疹とGVHD", "ja": "抗悪性腫瘍薬による皮疹", "en": "cutaneous eruption induced by anticancer drugs", "category": "疾患"}, {"chapter": 10, "chapterName": "薬疹とGVHD", "ja": "移植片対宿主病", "en": "graft-versus-host disease (GVHD)", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "皮膚小血管性血管炎", "en": "cutaneous small-vessel vasculitis", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "IgA血管炎", "en": "IgA vasculitis", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "蕁麻疹様血管炎", "en": "urticarial vasculitis", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "持久性隆起性紅斑", "en": "erythema elevatum diutinum", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "顔面肉芽腫", "en": "granuloma faciale", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "結節性多発動脈炎", "en": "polyarteritis nodosa", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "皮膚型結節性多発動脈炎", "en": "cutaneous polyarteritis nodosa", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "顕微鏡的多発血管炎", "en": "microscopic polyangiitis", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "好酸球性多発血管炎性肉芽腫症", "en": "eosinophilic granulomatosis with polyangiitis (EGPA)", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "多発血管炎性肉芽腫症", "en": "granulomatosis with polyangiitis (GPA)", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "巨細胞性動脈炎", "en": "giant cell arteritis", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "川崎病", "en": "Kawasaki disease", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "Behcet病", "en": "Behçet disease", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "壊疽性膿皮症", "en": "pyoderma gangrenosum", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "Buerger病", "en": "Buerger disease / thromboangiitis obliterans", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "Mondor病", "en": "Mondor disease", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "血栓性静脈炎", "en": "thrombophlebitis", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "コレステロール結晶塞栓症", "en": "cholesterol crystal embolization", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "血小板減少性紫斑病", "en": "thrombocytopenic purpura", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "特発性血小板減少性紫斑病", "en": "immune thrombocytopenia (ITP)", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "クリオグロブリン血症", "en": "cryoglobulinemia", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "色素性紫斑病", "en": "pigmented purpuric dermatosis", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "老人性紫斑", "en": "senile purpura", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "単純性紫斑", "en": "simple purpura", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "ステロイド紫斑", "en": "steroid purpura", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "Raynaud現象", "en": "Raynaud phenomenon", "category": "病態"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "慢性静脈不全", "en": "chronic venous insufficiency", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "リベド", "en": "livedo", "category": "所見"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "肢端紅痛症", "en": "erythromelalgia", "category": "疾患"}, {"chapter": 11, "chapterName": "血管炎・紫斑・その他の脈管疾患", "ja": "リンパ浮腫", "en": "lymphedema", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "全身性エリテマトーデス", "en": "systemic lupus erythematosus (SLE)", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "円板状エリテマトーデス", "en": "discoid lupus erythematosus (DLE)", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "深在性エリテマトーデス", "en": "lupus panniculitis / lupus profundus", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "凍瘡状エリテマトーデス", "en": "chilblain lupus", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "亜急性皮膚エリテマトーデス", "en": "subacute cutaneous lupus erythematosus (SCLE)", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "新生児エリテマトーデス", "en": "neonatal lupus erythematosus", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "水疱型エリテマトーデス", "en": "bullous systemic lupus erythematosus", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "全身性強皮症", "en": "systemic sclerosis", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "限局性強皮症", "en": "localized scleroderma / morphea", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "好酸球性筋膜炎", "en": "eosinophilic fasciitis", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "皮膚筋炎", "en": "dermatomyositis", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "無筋症性皮膚筋炎", "en": "clinically amyopathic dermatomyositis", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "混合性結合組織病", "en": "mixed connective tissue disease (MCTD)", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "オーバーラップ症候群", "en": "overlap syndrome", "category": "疾患"}, {"chapter": 12, "chapterName": "膠原病および類縁疾患", "ja": "抗リン脂質抗体症候群", "en": "antiphospholipid syndrome (APS)", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "熱傷", "en": "burn", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "凍瘡", "en": "chilblains / pernio", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "凍傷", "en": "frostbite", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "化学熱傷", "en": "chemical burn", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "電撃傷", "en": "electrical injury", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "血管外漏出に伴う皮膚障害", "en": "extravasation injury", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "放射線皮膚炎", "en": "radiation dermatitis", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "褥瘡", "en": "pressure ulcer / pressure injury", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "人工皮膚炎", "en": "dermatitis artefacta", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "日光皮膚炎", "en": "sunburn", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "光老化", "en": "photoaging", "category": "病態"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "光線過敏症", "en": "photosensitivity", "category": "病態"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "光アレルギー性皮膚炎", "en": "photoallergic dermatitis", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "光毒性皮膚炎", "en": "phototoxic dermatitis", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "日光蕁麻疹", "en": "solar urticaria", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "慢性光線性皮膚炎", "en": "chronic actinic dermatitis", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "多形日光疹", "en": "polymorphous light eruption", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "種痘様水疱症", "en": "hydroa vacciniforme", "category": "疾患"}, {"chapter": 13, "chapterName": "物理化学的皮膚障害・光線性皮膚疾患", "ja": "色素性乾皮症", "en": "xeroderma pigmentosum", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "表皮水疱症", "en": "epidermolysis bullosa", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "単純型表皮水疱症", "en": "epidermolysis bullosa simplex (EBS)", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "接合部型表皮水疱症", "en": "junctional epidermolysis bullosa (JEB)", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "栄養障害型表皮水疱症", "en": "dystrophic epidermolysis bullosa (DEB)", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "Hailey-Hailey病", "en": "Hailey-Hailey disease", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "尋常性天疱瘡", "en": "pemphigus vulgaris", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "増殖性天疱瘡", "en": "pemphigus vegetans", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "落葉状天疱瘡", "en": "pemphigus foliaceus", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "紅斑性天疱瘡", "en": "pemphigus erythematosus", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "腫瘍随伴性天疱瘡", "en": "paraneoplastic pemphigus", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "薬剤誘発性天疱瘡", "en": "drug-induced pemphigus", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "新生児天疱瘡", "en": "pemphigus neonatorum", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "IgA天疱瘡", "en": "IgA pemphigus", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "疱疹状天疱瘡", "en": "pemphigus herpetiformis", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "水疱性類天疱瘡", "en": "bullous pemphigoid", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "妊娠性類天疱瘡", "en": "pemphigoid gestationis", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "粘膜類天疱瘡", "en": "mucous membrane pemphigoid", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "後天性表皮水疱症", "en": "epidermolysis bullosa acquisita (EBA)", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "疱疹状皮膚炎", "en": "dermatitis herpetiformis", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "線状IgA水疱性皮膚症", "en": "linear IgA bullous dermatosis", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "掌蹠膿疱症", "en": "palmoplantar pustulosis", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "角層下膿疱症", "en": "subcorneal pustular dermatosis", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "好酸球性膿疱性毛包炎", "en": "eosinophilic pustular folliculitis", "category": "疾患"}, {"chapter": 14, "chapterName": "水疱症・膿疱症", "ja": "急性汎発性膿疱性細菌疹", "en": "acute generalized pustular bacterid", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "尋常性魚鱗癬", "en": "ichthyosis vulgaris", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "X連鎖性劣性魚鱗癬", "en": "X-linked recessive ichthyosis", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "道化師様魚鱗癬", "en": "harlequin ichthyosis", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "葉状魚鱗癬", "en": "lamellar ichthyosis", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "先天性魚鱗癬様紅皮症", "en": "congenital ichthyosiform erythroderma", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "表皮融解性魚鱗癬", "en": "epidermolytic ichthyosis", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "長島型掌蹠角化症", "en": "Nagashima-type palmoplantar keratoderma", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "Unna-Thost型掌蹠角化症", "en": "Unna-Thost palmoplantar keratoderma", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "Vorner型掌蹠角化症", "en": "Vörner palmoplantar keratoderma", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "点状掌蹠角化症", "en": "punctate palmoplantar keratoderma", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "線状掌蹠角化症", "en": "linear palmoplantar keratoderma", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "メレダ病", "en": "Mal de Meleda", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "Vohwinkel症候群", "en": "Vohwinkel syndrome", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "Papillon-Lefèvre症候群", "en": "Papillon-Lefèvre syndrome", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "Darier病", "en": "Darier disease", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "乾癬", "en": "psoriasis", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "尋常性乾癬", "en": "plaque psoriasis", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "滴状乾癬", "en": "guttate psoriasis", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "膿疱性乾癬", "en": "pustular psoriasis", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "乾癬性関節炎", "en": "psoriatic arthritis", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "毛孔性紅色粃糠疹", "en": "pityriasis rubra pilaris (PRP)", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "扁平苔癬", "en": "lichen planus", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "線状苔癬", "en": "lichen striatus", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "光沢苔癬", "en": "lichen nitidus", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "ばら色粃糠疹", "en": "pityriasis rosea", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "鶏眼", "en": "corn", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "胼胝", "en": "callus", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "毛孔性角化症", "en": "keratosis pilaris", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "黒色表皮腫", "en": "acanthosis nigricans", "category": "疾患"}, {"chapter": 15, "chapterName": "角化症", "ja": "後天性魚鱗癬", "en": "acquired ichthyosis", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "眼皮膚白皮症", "en": "oculocutaneous albinism (OCA)", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "尋常性白斑", "en": "vitiligo", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "まだら症", "en": "piebaldism", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "Sutton母斑", "en": "halo nevus", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "Vogt・小柳・原田病", "en": "Vogt-Koyanagi-Harada disease", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "特発性滴状色素減少症", "en": "idiopathic guttate hypomelanosis", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "脱色素性母斑", "en": "nevus depigmentosus", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "雀卵斑", "en": "ephelides", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "肝斑", "en": "melasma", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "Riehl黒皮症", "en": "Riehl melanosis", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "摩擦黒皮症", "en": "frictional melanosis", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "老人性色素斑", "en": "solar lentigo", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "Addison病", "en": "Addison disease", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "光線性花弁状色素斑", "en": "actinic lentigines / petal-like pigment macules", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "色素異常性固定紅斑", "en": "fixed drug eruption with hyperpigmentation", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "柑皮症", "en": "carotenemia", "category": "病態"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "銀皮症", "en": "argyria", "category": "疾患"}, {"chapter": 16, "chapterName": "色素異常症", "ja": "刺青", "en": "tattoo", "category": "状態"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "皮膚限局性アミロイドーシス", "en": "primary localized cutaneous amyloidosis", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "アミロイド苔癬", "en": "lichen amyloidosis", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "斑状アミロイドーシス", "en": "macular amyloidosis", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "結節性皮膚アミロイドーシス", "en": "nodular cutaneous amyloidosis", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "ALアミロイドーシス", "en": "AL amyloidosis", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "AAアミロイドーシス", "en": "AA amyloidosis", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "透析アミロイドーシス", "en": "dialysis-related amyloidosis", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "浮腫性硬化症", "en": "scleredema", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "汎発性粘液水腫", "en": "generalized myxedema", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "脛骨前粘液水腫", "en": "pretibial myxedema", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "毛包性ムチン沈着症", "en": "follicular mucinosis", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "結節性黄色腫", "en": "tuberous xanthoma", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "腱黄色腫", "en": "tendon xanthoma", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "眼瞼黄色腫", "en": "xanthelasma", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "発疹性黄色腫", "en": "eruptive xanthoma", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "亜鉛欠乏症候群", "en": "zinc deficiency syndrome", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "ヘモクロマトーシス", "en": "hemochromatosis", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "Menkes病", "en": "Menkes disease", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "皮膚石灰沈着症", "en": "calcinosis cutis", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "カルシフィラキシー", "en": "calciphylaxis", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "ペラグラ", "en": "pellagra", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "ビオチン欠乏症", "en": "biotin deficiency", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "壊血病", "en": "scurvy", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "先天性骨髄性ポルフィリン症", "en": "congenital erythropoietic porphyria", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "骨髄性プロトポルフィリン症", "en": "erythropoietic protoporphyria", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "多様性ポルフィリン症", "en": "variegate porphyria", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "晩発性皮膚ポルフィリン症", "en": "porphyria cutanea tarda", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "糖尿病性壊疽", "en": "diabetic gangrene", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "リポイド類壊死症", "en": "necrobiosis lipoidica", "category": "疾患"}, {"chapter": 17, "chapterName": "代謝異常症", "ja": "糖尿病性水疱症", "en": "bullosis diabeticorum", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "皮膚伸展線条", "en": "striae distensae", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "皮膚老化", "en": "skin aging", "category": "病態"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "硬化性苔癬", "en": "lichen sclerosus", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "Werner症候群", "en": "Werner syndrome", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "Rothmund-Thomson症候群", "en": "Rothmund-Thomson syndrome", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "外胚葉形成異常症", "en": "ectodermal dysplasia", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "先天性皮膚欠損症", "en": "aplasia cutis congenita", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "穿孔性皮膚症", "en": "perforating dermatosis", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "蛇行性穿孔性弾力線維症", "en": "elastosis perforans serpiginosa", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "反応性穿孔性膠原線維症", "en": "reactive perforating collagenosis", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "サルコイドーシス", "en": "sarcoidosis", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "環状肉芽腫", "en": "granuloma annulare", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "Ehlers-Danlos症候群", "en": "Ehlers-Danlos syndrome", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "Marfan症候群", "en": "Marfan syndrome", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "弾性線維性仮性黄色腫", "en": "pseudoxanthoma elasticum", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "結節性紅斑", "en": "erythema nodosum", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "硬結性紅斑", "en": "erythema induratum", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "好酸球性蜂窩織炎", "en": "eosinophilic cellulitis / Wells syndrome", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "外傷性脂肪組織炎", "en": "traumatic panniculitis", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "新生児皮下脂肪壊死症", "en": "subcutaneous fat necrosis of the newborn", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "リポジストロフィー", "en": "lipodystrophy", "category": "疾患"}, {"chapter": 18, "chapterName": "真皮、皮下脂肪組織の疾患", "ja": "先天性全身型リポジストロフィー", "en": "congenital generalized lipodystrophy", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "汗疹", "en": "miliaria", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "臭汗症", "en": "bromhidrosis", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "Fox-Fordyce病", "en": "Fox-Fordyce disease", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "多汗症", "en": "hyperhidrosis", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "無汗症", "en": "anhidrosis", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "乏汗症", "en": "hypohidrosis", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "尋常性ざ瘡", "en": "acne vulgaris", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "酒さ", "en": "rosacea", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "酒さ様皮膚炎", "en": "perioral dermatitis", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "顔面播種状粟粒性狼瘡", "en": "lupus miliaris disseminatus faciei", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "円形脱毛症", "en": "alopecia areata", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "男性型脱毛症", "en": "androgenetic alopecia", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "先天性脱毛症", "en": "congenital alopecia", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "トリコチロマニア", "en": "trichotillomania", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "瘢痕性脱毛症", "en": "cicatricial alopecia", "category": "疾患"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "爪甲剥離症", "en": "onycholysis", "category": "所見"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "爪甲脱落症", "en": "onychomadesis", "category": "所見"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "爪甲肥厚症", "en": "onychauxis / pachyonychia", "category": "所見"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "爪甲縦溝", "en": "longitudinal ridging", "category": "所見"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "爪甲横溝", "en": "Beau's lines", "category": "所見"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "点状陥凹", "en": "nail pitting", "category": "所見"}, {"chapter": 19, "chapterName": "付属器疾患", "ja": "陥入爪", "en": "ingrown nail / onychocryptosis", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "母斑細胞母斑", "en": "melanocytic nevus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "境界母斑", "en": "junctional nevus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "複合母斑", "en": "compound nevus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "真皮内母斑", "en": "intradermal nevus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "巨大先天性色素性母斑", "en": "congenital melanocytic nevus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "Spitz母斑", "en": "Spitz nevus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "Clark母斑", "en": "Clark nevus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "青色母斑", "en": "blue nevus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "太田母斑", "en": "nevus of Ota", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "後天性真皮メラノサイトーシス", "en": "acquired dermal melanocytosis", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "蒙古斑", "en": "Mongolian spot", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "疣贅状表皮母斑", "en": "verrucous epidermal nevus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "脂腺母斑", "en": "nevus sebaceus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "面皰母斑", "en": "nevus comedonicus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "結合組織母斑", "en": "connective tissue nevus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "カフェオレ斑", "en": "café-au-lait macule", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "Becker母斑", "en": "Becker nevus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "貧血母斑", "en": "nevus anemicus", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "神経線維腫症1型", "en": "neurofibromatosis type 1", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "神経線維腫症2型", "en": "neurofibromatosis type 2", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "結節性硬化症", "en": "tuberous sclerosis complex", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "Peutz-Jeghers症候群", "en": "Peutz-Jeghers syndrome", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "色素失調症", "en": "incontinentia pigmenti", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "Sturge-Weber症候群", "en": "Sturge-Weber syndrome", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "Klippel-Trenaunay-Weber症候群", "en": "Klippel-Trenaunay syndrome", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "母斑性基底細胞癌症候群", "en": "basal cell nevus syndrome / Gorlin syndrome", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "遺伝性出血性毛細血管拡張症", "en": "hereditary hemorrhagic telangiectasia", "category": "疾患"}, {"chapter": 20, "chapterName": "母斑と神経皮膚症候群", "ja": "Maffucci症候群", "en": "Maffucci syndrome", "category": "疾患"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "脂漏性角化症", "en": "seborrheic keratosis", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "澄明細胞性棘細胞腫", "en": "clear cell acanthoma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "汗孔角化症", "en": "porokeratosis", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "毛包腫", "en": "trichofolliculoma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "毛包腺腫", "en": "follicular adenoma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "毛包上皮腫", "en": "trichoepithelioma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "毛芽腫", "en": "trichoblastoma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "毛母腫", "en": "pilomatricoma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "外毛根鞘腫", "en": "trichilemmoma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "脂腺増殖症", "en": "sebaceous hyperplasia", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "脂腺腺腫", "en": "sebaceous adenoma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "汗管腫", "en": "syringoma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "エクリン汗孔腫", "en": "poroma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "皮膚混合腫瘍", "en": "mixed tumor of the skin", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "円柱腫", "en": "cylindroma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "類表皮嚢腫", "en": "epidermoid cyst", "category": "嚢腫"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "稗粒腫", "en": "milium", "category": "嚢腫"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "皮様嚢腫", "en": "dermoid cyst", "category": "嚢腫"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "毛巣洞", "en": "pilonidal sinus", "category": "嚢腫"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "神経線維腫", "en": "neurofibroma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "神経鞘腫", "en": "schwannoma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "乳児血管腫", "en": "infantile hemangioma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "化膿性肉芽腫", "en": "pyogenic granuloma / lobular capillary hemangioma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "グロムス腫瘍", "en": "glomus tumor", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "静脈湖", "en": "venous lake", "category": "血管病変"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "軟性線維腫", "en": "acrochordon / soft fibroma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "皮膚線維腫", "en": "dermatofibroma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "ケロイド", "en": "keloid", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "黄色肉芽腫", "en": "juvenile xanthogranuloma", "category": "良性腫瘍"}, {"chapter": 21, "chapterName": "皮膚の良性腫瘍", "ja": "脂肪腫", "en": "lipoma", "category": "良性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "基底細胞癌", "en": "basal cell carcinoma (BCC)", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "有棘細胞癌", "en": "squamous cell carcinoma (SCC)", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "日光角化症", "en": "actinic keratosis", "category": "前癌病変"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "Bowen病", "en": "Bowen disease", "category": "前癌病変"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "白板症", "en": "leukoplakia", "category": "前癌病変"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "ケラトアカントーマ", "en": "keratoacanthoma", "category": "腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "脂腺癌", "en": "sebaceous carcinoma", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "乳房Paget病", "en": "mammary Paget disease", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "乳房外Paget病", "en": "extramammary Paget disease", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "エクリン汗孔癌", "en": "porocarcinoma", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "微小嚢胞性付属器癌", "en": "microcystic adnexal carcinoma", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "Merkel細胞癌", "en": "Merkel cell carcinoma", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "悪性末梢神経鞘腫瘍", "en": "malignant peripheral nerve sheath tumor (MPNST)", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "隆起性皮膚線維肉腫", "en": "dermatofibrosarcoma protuberans (DFSP)", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "脂肪肉腫", "en": "liposarcoma", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "血管肉腫", "en": "angiosarcoma", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "Kaposi肉腫", "en": "Kaposi sarcoma", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "類上皮肉腫", "en": "epithelioid sarcoma", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "未分化多形細胞肉腫", "en": "undifferentiated pleomorphic sarcoma", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "菌状息肉症", "en": "mycosis fungoides", "category": "悪性リンパ腫"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "Sezary症候群", "en": "Sézary syndrome", "category": "悪性リンパ腫"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "成人T細胞白血病／リンパ腫", "en": "adult T-cell leukemia/lymphoma (ATL)", "category": "悪性リンパ腫"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "原発性皮膚未分化大細胞リンパ腫", "en": "primary cutaneous anaplastic large-cell lymphoma", "category": "悪性リンパ腫"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "リンパ腫様丘疹症", "en": "lymphomatoid papulosis", "category": "悪性リンパ腫"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "原発性皮膚辺縁帯B細胞リンパ腫", "en": "primary cutaneous marginal zone B-cell lymphoma", "category": "悪性リンパ腫"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "原発性皮膚濾胞中心リンパ腫", "en": "primary cutaneous follicle center lymphoma", "category": "悪性リンパ腫"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "Langerhans細胞組織球症", "en": "Langerhans cell histiocytosis", "category": "腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "悪性黒色腫", "en": "malignant melanoma", "category": "悪性腫瘍"}, {"chapter": 22, "chapterName": "皮膚の悪性腫瘍", "ja": "皮膚転移", "en": "cutaneous metastasis", "category": "悪性腫瘍"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "単純ヘルペスウイルス感染症", "en": "herpes simplex virus infection", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "水痘", "en": "varicella", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "帯状疱疹", "en": "herpes zoster", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "尋常性疣贅", "en": "verruca vulgaris", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "扁平疣贅", "en": "flat wart / verruca plana", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "尖圭コンジローマ", "en": "condyloma acuminatum", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "Bowen様丘疹症", "en": "bowenoid papulosis", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "疣贅状表皮発育異常症", "en": "epidermodysplasia verruciformis", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "伝染性軟属腫", "en": "molluscum contagiosum", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "麻疹", "en": "measles", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "風疹", "en": "rubella", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "突発性発疹", "en": "roseola infantum", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "伝染性紅斑", "en": "erythema infectiosum", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "Gianotti-Crosti症候群", "en": "Gianotti-Crosti syndrome", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "手足口病", "en": "hand, foot and mouth disease", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "伝染性単核球症", "en": "infectious mononucleosis", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "デング熱", "en": "dengue fever", "category": "感染症"}, {"chapter": 23, "chapterName": "ウイルス感染症", "ja": "後天性免疫不全症候群", "en": "acquired immunodeficiency syndrome (AIDS)", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "伝染性膿痂疹", "en": "impetigo", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "水疱性膿痂疹", "en": "bullous impetigo", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "痂皮性膿痂疹", "en": "nonbullous impetigo", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "丹毒", "en": "erysipelas", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "蜂窩織炎", "en": "cellulitis", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "毛包炎", "en": "folliculitis", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "せつ", "en": "furuncle", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "癰", "en": "carbuncle", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "細菌性爪囲炎", "en": "bacterial paronychia", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "ブドウ球菌性熱傷様皮膚症候群", "en": "staphylococcal scalded skin syndrome (SSSS)", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "トキシックショック症候群", "en": "toxic shock syndrome (TSS)", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "猩紅熱", "en": "scarlet fever", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "壊死性筋膜炎", "en": "necrotizing fasciitis", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "ガス壊疽", "en": "gas gangrene", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "敗血症", "en": "sepsis", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "Osler結節", "en": "Osler nodes", "category": "所見"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "紅色陰癬", "en": "erythrasma", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "点状角質融解症", "en": "pitted keratolysis", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "猫ひっかき病", "en": "cat-scratch disease", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "放線菌症", "en": "actinomycosis", "category": "感染症"}, {"chapter": 24, "chapterName": "細菌感染症", "ja": "ノカルジア症", "en": "nocardiosis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "白癬", "en": "tinea / dermatophytosis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "足白癬", "en": "tinea pedis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "爪白癬", "en": "tinea unguium / onychomycosis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "手白癬", "en": "tinea manuum", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "体部白癬", "en": "tinea corporis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "顔面白癬", "en": "tinea faciei", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "股部白癬", "en": "tinea cruris", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "頭部白癬", "en": "tinea capitis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "Celsus禿瘡", "en": "kerion celsi", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "白癬菌性肉芽腫", "en": "Majocchi granuloma", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "カンジダ症", "en": "candidiasis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "カンジダ性間擦疹", "en": "candidal intertrigo", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "カンジダ性指趾間びらん症", "en": "candidal interdigital erosion", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "カンジダ性爪囲炎", "en": "candidal paronychia", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "口腔カンジダ症", "en": "oral candidiasis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "性器カンジダ症", "en": "genital candidiasis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "慢性皮膚粘膜カンジダ症", "en": "chronic mucocutaneous candidiasis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "癜風", "en": "pityriasis versicolor", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "マラセチア毛包炎", "en": "Malassezia folliculitis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "スポロトリコーシス", "en": "sporotrichosis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "クロモブラストミコーシス", "en": "chromoblastomycosis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "菌腫", "en": "mycetoma", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "皮膚アスペルギルス症", "en": "cutaneous aspergillosis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "皮膚クリプトコッカス症", "en": "cutaneous cryptococcosis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "パラコクシジオイデス症", "en": "paracoccidioidomycosis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "コクシジオイデス症", "en": "coccidioidomycosis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "北米ブラストミセス症", "en": "North American blastomycosis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "ヒストプラスマ症", "en": "histoplasmosis", "category": "感染症"}, {"chapter": 25, "chapterName": "真菌症", "ja": "皮膚ムコール症", "en": "cutaneous mucormycosis", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "皮膚結核", "en": "cutaneous tuberculosis", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "皮膚腺病", "en": "scrofuloderma", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "尋常性狼瘡", "en": "lupus vulgaris", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "皮膚疣状結核", "en": "tuberculosis verrucosa cutis", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "硬結性紅斑", "en": "erythema induratum", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "丘疹壊疽性結核疹", "en": "papulonecrotic tuberculid", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "腺病性苔癬", "en": "lichen scrofulosorum", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "BCG副反応", "en": "BCG adverse reaction", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "Mycobacterium marinum感染症", "en": "Mycobacterium marinum infection", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "Mycobacterium avium感染症", "en": "Mycobacterium avium infection", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "Mycobacterium chelonae感染症", "en": "Mycobacterium chelonae infection", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "Mycobacterium fortuitum感染症", "en": "Mycobacterium fortuitum infection", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "ブルーリ潰瘍", "en": "Buruli ulcer", "category": "感染症"}, {"chapter": 26, "chapterName": "抗酸菌感染症", "ja": "ハンセン病", "en": "leprosy / Hansen disease", "category": "感染症"}, {"chapter": 27, "chapterName": "性感染症", "ja": "梅毒", "en": "syphilis", "category": "性感染症"}, {"chapter": 27, "chapterName": "性感染症", "ja": "第1期梅毒", "en": "primary syphilis", "category": "性感染症"}, {"chapter": 27, "chapterName": "性感染症", "ja": "第2期梅毒", "en": "secondary syphilis", "category": "性感染症"}, {"chapter": 27, "chapterName": "性感染症", "ja": "潜伏梅毒", "en": "latent syphilis", "category": "性感染症"}, {"chapter": 27, "chapterName": "性感染症", "ja": "第3期梅毒", "en": "tertiary syphilis", "category": "性感染症"}, {"chapter": 27, "chapterName": "性感染症", "ja": "神経梅毒", "en": "neurosyphilis", "category": "性感染症"}, {"chapter": 27, "chapterName": "性感染症", "ja": "先天梅毒", "en": "congenital syphilis", "category": "性感染症"}, {"chapter": 27, "chapterName": "性感染症", "ja": "軟性下疳", "en": "chancroid", "category": "性感染症"}, {"chapter": 27, "chapterName": "性感染症", "ja": "性病性リンパ肉芽腫", "en": "lymphogranuloma venereum (LGV)", "category": "性感染症"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "虫刺症", "en": "insect bite reaction", "category": "疾患"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "蚊アレルギー", "en": "mosquito allergy", "category": "疾患"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "毛虫皮膚炎", "en": "caterpillar dermatitis", "category": "疾患"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "線状皮膚炎", "en": "linear dermatitis", "category": "疾患"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "シラミ症", "en": "pediculosis", "category": "疾患"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "疥癬", "en": "scabies", "category": "疾患"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "マダニ刺咬症", "en": "tick bite", "category": "疾患"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "トコジラミ刺症", "en": "bedbug bites", "category": "疾患"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "ライム病", "en": "Lyme disease", "category": "感染症"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "ツツガムシ病", "en": "scrub typhus", "category": "感染症"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "リーシュマニア症", "en": "leishmaniasis", "category": "感染症"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "デング熱", "en": "dengue fever", "category": "感染症"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "クリーピング病", "en": "cutaneous larva migrans", "category": "寄生虫症"}, {"chapter": 28, "chapterName": "節足動物などによる皮膚疾患", "ja": "リンパ系フィラリア症", "en": "lymphatic filariasis", "category": "寄生虫症"}, {"chapter": 29, "chapterName": "遺伝性皮膚疾患：遺伝相談と新しい治療", "ja": "遺伝性皮膚疾患", "en": "hereditary skin disease / genodermatosis", "category": "疾患"}, {"chapter": 29, "chapterName": "遺伝性皮膚疾患：遺伝相談と新しい治療", "ja": "遺伝相談", "en": "genetic counseling", "category": "診療"}, {"chapter": 29, "chapterName": "遺伝性皮膚疾患：遺伝相談と新しい治療", "ja": "出生前診断", "en": "prenatal diagnosis", "category": "診療"}, {"chapter": 29, "chapterName": "遺伝性皮膚疾患：遺伝相談と新しい治療", "ja": "胎児皮膚生検", "en": "fetal skin biopsy", "category": "検査"}, {"chapter": 29, "chapterName": "遺伝性皮膚疾患：遺伝相談と新しい治療", "ja": "絨毛生検", "en": "chorionic villus sampling (CVS)", "category": "検査"}, {"chapter": 29, "chapterName": "遺伝性皮膚疾患：遺伝相談と新しい治療", "ja": "羊水穿刺", "en": "amniocentesis", "category": "検査"}, {"chapter": 29, "chapterName": "遺伝性皮膚疾患：遺伝相談と新しい治療", "ja": "遺伝子治療", "en": "gene therapy", "category": "治療"}, {"chapter": 29, "chapterName": "遺伝性皮膚疾患：遺伝相談と新しい治療", "ja": "再生治療", "en": "regenerative therapy", "category": "治療"}]
+[
+  {
+    "ja": "表皮",
+    "en": "epidermis"
+  },
+  {
+    "ja": "基底層",
+    "en": "basal layer / stratum basale"
+  },
+  {
+    "ja": "有棘層",
+    "en": "spinous layer / stratum spinosum"
+  },
+  {
+    "ja": "顆粒層",
+    "en": "granular layer / stratum granulosum"
+  },
+  {
+    "ja": "角層",
+    "en": "stratum corneum"
+  },
+  {
+    "ja": "基底膜",
+    "en": "basement membrane"
+  },
+  {
+    "ja": "角化",
+    "en": "keratinization"
+  },
+  {
+    "ja": "ケラチン",
+    "en": "keratin"
+  },
+  {
+    "ja": "角質細胞間脂質",
+    "en": "intercellular lipids"
+  },
+  {
+    "ja": "メラノサイト",
+    "en": "melanocyte"
+  },
+  {
+    "ja": "メラニン",
+    "en": "melanin"
+  },
+  {
+    "ja": "メラノソーム",
+    "en": "melanosome"
+  },
+  {
+    "ja": "Langerhans細胞",
+    "en": "Langerhans cell"
+  },
+  {
+    "ja": "Merkel細胞",
+    "en": "Merkel cell"
+  },
+  {
+    "ja": "真皮",
+    "en": "dermis"
+  },
+  {
+    "ja": "膠原線維",
+    "en": "collagen fibers"
+  },
+  {
+    "ja": "弾性線維",
+    "en": "elastic fibers"
+  },
+  {
+    "ja": "線維芽細胞",
+    "en": "fibroblast"
+  },
+  {
+    "ja": "肥満細胞",
+    "en": "mast cell"
+  },
+  {
+    "ja": "皮下脂肪組織",
+    "en": "subcutaneous adipose tissue"
+  },
+  {
+    "ja": "毛包",
+    "en": "hair follicle"
+  },
+  {
+    "ja": "脂腺",
+    "en": "sebaceous gland"
+  },
+  {
+    "ja": "エクリン汗腺",
+    "en": "eccrine sweat gland"
+  },
+  {
+    "ja": "アポクリン汗腺",
+    "en": "apocrine sweat gland"
+  },
+  {
+    "ja": "爪甲",
+    "en": "nail plate"
+  },
+  {
+    "ja": "爪母",
+    "en": "nail matrix"
+  },
+  {
+    "ja": "I型アレルギー反応",
+    "en": "type I hypersensitivity"
+  },
+  {
+    "ja": "II型アレルギー反応",
+    "en": "type II hypersensitivity"
+  },
+  {
+    "ja": "III型アレルギー反応",
+    "en": "type III hypersensitivity"
+  },
+  {
+    "ja": "IV型アレルギー反応",
+    "en": "type IV hypersensitivity"
+  },
+  {
+    "ja": "表皮肥厚",
+    "en": "epidermal hyperplasia / acanthosis"
+  },
+  {
+    "ja": "表皮萎縮",
+    "en": "epidermal atrophy"
+  },
+  {
+    "ja": "過角化",
+    "en": "hyperkeratosis"
+  },
+  {
+    "ja": "不全角化",
+    "en": "parakeratosis"
+  },
+  {
+    "ja": "異常角化",
+    "en": "dyskeratosis"
+  },
+  {
+    "ja": "顆粒層肥厚",
+    "en": "hypergranulosis"
+  },
+  {
+    "ja": "顆粒変性",
+    "en": "granular degeneration"
+  },
+  {
+    "ja": "海綿状態",
+    "en": "spongiosis"
+  },
+  {
+    "ja": "細胞内浮腫",
+    "en": "intracellular edema / ballooning degeneration"
+  },
+  {
+    "ja": "封入体",
+    "en": "inclusion body"
+  },
+  {
+    "ja": "棘融解",
+    "en": "acantholysis"
+  },
+  {
+    "ja": "水疱",
+    "en": "blister / bulla"
+  },
+  {
+    "ja": "膿疱",
+    "en": "pustule"
+  },
+  {
+    "ja": "表皮内細胞浸潤",
+    "en": "intraepidermal cellular infiltration"
+  },
+  {
+    "ja": "経表皮性排除",
+    "en": "transepidermal elimination"
+  },
+  {
+    "ja": "液状変性",
+    "en": "interface dermatitis / liquefaction degeneration"
+  },
+  {
+    "ja": "炎症性細胞浸潤",
+    "en": "inflammatory cell infiltration"
+  },
+  {
+    "ja": "肉芽腫",
+    "en": "granuloma"
+  },
+  {
+    "ja": "巨細胞",
+    "en": "giant cell"
+  },
+  {
+    "ja": "脂肪織炎",
+    "en": "panniculitis"
+  },
+  {
+    "ja": "蛍光抗体直接法",
+    "en": "direct immunofluorescence (DIF)"
+  },
+  {
+    "ja": "蛍光抗体間接法",
+    "en": "indirect immunofluorescence (IIF)"
+  },
+  {
+    "ja": "免疫電顕",
+    "en": "immunoelectron microscopy"
+  },
+  {
+    "ja": "色素ネットワーク",
+    "en": "pigment network"
+  },
+  {
+    "ja": "ドット",
+    "en": "dots"
+  },
+  {
+    "ja": "グロビュール",
+    "en": "globules"
+  },
+  {
+    "ja": "ストリーク",
+    "en": "streaks"
+  },
+  {
+    "ja": "均一な青色調",
+    "en": "homogeneous blue pigmentation"
+  },
+  {
+    "ja": "偽ネットワーク",
+    "en": "pseudonetwork"
+  },
+  {
+    "ja": "parallel pattern",
+    "en": "parallel pattern"
+  },
+  {
+    "ja": "multicomponent pattern",
+    "en": "multicomponent pattern"
+  },
+  {
+    "ja": "樹枝状血管",
+    "en": "arborizing vessels"
+  },
+  {
+    "ja": "青灰色球状構造",
+    "en": "blue-gray globules"
+  },
+  {
+    "ja": "潰瘍",
+    "en": "ulceration"
+  },
+  {
+    "ja": "spoke-wheel areas",
+    "en": "spoke-wheel areas"
+  },
+  {
+    "ja": "leaf-like structures",
+    "en": "leaf-like structures"
+  },
+  {
+    "ja": "shiny white areas",
+    "en": "shiny white areas"
+  },
+  {
+    "ja": "面皰様開口",
+    "en": "comedo-like openings"
+  },
+  {
+    "ja": "稗粒腫様嚢胞",
+    "en": "milia-like cysts"
+  },
+  {
+    "ja": "指紋様構造",
+    "en": "fingerprint-like structures"
+  },
+  {
+    "ja": "裂溝と隆起",
+    "en": "fissures and ridges"
+  },
+  {
+    "ja": "赤色～暗色のlacunae",
+    "en": "red to black lacunae"
+  },
+  {
+    "ja": "線状血管",
+    "en": "linear vessels"
+  },
+  {
+    "ja": "糸球体状血管",
+    "en": "glomerular vessels"
+  },
+  {
+    "ja": "strawberry pattern",
+    "en": "strawberry pattern"
+  },
+  {
+    "ja": "紅斑",
+    "en": "erythema"
+  },
+  {
+    "ja": "紫斑",
+    "en": "purpura"
+  },
+  {
+    "ja": "色素斑",
+    "en": "pigmented macule"
+  },
+  {
+    "ja": "白斑",
+    "en": "depigmented macule / leukoderma"
+  },
+  {
+    "ja": "丘疹",
+    "en": "papule"
+  },
+  {
+    "ja": "結節",
+    "en": "nodule"
+  },
+  {
+    "ja": "腫瘤",
+    "en": "tumor / mass"
+  },
+  {
+    "ja": "水疱",
+    "en": "vesicle / bulla"
+  },
+  {
+    "ja": "膿疱",
+    "en": "pustule"
+  },
+  {
+    "ja": "嚢腫",
+    "en": "cyst"
+  },
+  {
+    "ja": "膨疹",
+    "en": "wheal"
+  },
+  {
+    "ja": "萎縮",
+    "en": "atrophy"
+  },
+  {
+    "ja": "鱗屑",
+    "en": "scale"
+  },
+  {
+    "ja": "痂皮",
+    "en": "crust"
+  },
+  {
+    "ja": "胼胝",
+    "en": "callus"
+  },
+  {
+    "ja": "鶏眼",
+    "en": "corn"
+  },
+  {
+    "ja": "瘢痕",
+    "en": "scar"
+  },
+  {
+    "ja": "ケロイド",
+    "en": "keloid"
+  },
+  {
+    "ja": "表皮剥離",
+    "en": "excoriation"
+  },
+  {
+    "ja": "びらん",
+    "en": "erosion"
+  },
+  {
+    "ja": "潰瘍",
+    "en": "ulcer"
+  },
+  {
+    "ja": "亀裂",
+    "en": "fissure"
+  },
+  {
+    "ja": "苔癬",
+    "en": "lichen"
+  },
+  {
+    "ja": "苔癬化",
+    "en": "lichenification"
+  },
+  {
+    "ja": "局面",
+    "en": "plaque"
+  },
+  {
+    "ja": "乳頭腫症",
+    "en": "papillomatosis"
+  },
+  {
+    "ja": "ざ瘡",
+    "en": "acne"
+  },
+  {
+    "ja": "面皰",
+    "en": "comedone"
+  },
+  {
+    "ja": "毛瘡",
+    "en": "sycosis"
+  },
+  {
+    "ja": "紅皮症",
+    "en": "erythroderma"
+  },
+  {
+    "ja": "黒皮症",
+    "en": "melanoderma"
+  },
+  {
+    "ja": "網状皮斑",
+    "en": "livedo reticularis"
+  },
+  {
+    "ja": "疱疹",
+    "en": "herpes"
+  },
+  {
+    "ja": "膿痂疹",
+    "en": "impetigo"
+  },
+  {
+    "ja": "粃糠疹",
+    "en": "pityriasis"
+  },
+  {
+    "ja": "乾皮症",
+    "en": "xerosis"
+  },
+  {
+    "ja": "魚鱗癬",
+    "en": "ichthyosis"
+  },
+  {
+    "ja": "ポイキロデルマ",
+    "en": "poikiloderma"
+  },
+  {
+    "ja": "硬化",
+    "en": "sclerosis"
+  },
+  {
+    "ja": "脂漏",
+    "en": "seborrhea"
+  },
+  {
+    "ja": "脱毛症",
+    "en": "alopecia"
+  },
+  {
+    "ja": "掻痒症",
+    "en": "pruritus"
+  },
+  {
+    "ja": "Nikolsky現象",
+    "en": "Nikolsky sign"
+  },
+  {
+    "ja": "Köbner現象",
+    "en": "Koebner phenomenon"
+  },
+  {
+    "ja": "Darier徴候",
+    "en": "Darier sign"
+  },
+  {
+    "ja": "Auspitz現象",
+    "en": "Auspitz sign"
+  },
+  {
+    "ja": "皮膚描記症",
+    "en": "dermographism"
+  },
+  {
+    "ja": "パッチテスト",
+    "en": "patch test"
+  },
+  {
+    "ja": "プリックテスト",
+    "en": "prick test"
+  },
+  {
+    "ja": "皮内反応",
+    "en": "intradermal test"
+  },
+  {
+    "ja": "薬剤リンパ球刺激試験",
+    "en": "drug-induced lymphocyte stimulation test (DLST)"
+  },
+  {
+    "ja": "光線照射テスト",
+    "en": "phototest"
+  },
+  {
+    "ja": "光パッチテスト",
+    "en": "photopatch test"
+  },
+  {
+    "ja": "発汗機能検査",
+    "en": "sweat function test"
+  },
+  {
+    "ja": "経表皮水分喪失量",
+    "en": "transepidermal water loss (TEWL)"
+  },
+  {
+    "ja": "硝子圧法",
+    "en": "diascopy"
+  },
+  {
+    "ja": "Wood灯検査",
+    "en": "Wood's lamp examination"
+  },
+  {
+    "ja": "Tzanck試験",
+    "en": "Tzanck test"
+  },
+  {
+    "ja": "ELISA",
+    "en": "enzyme-linked immunosorbent assay (ELISA)"
+  },
+  {
+    "ja": "ウェスタンブロット法",
+    "en": "Western blotting"
+  },
+  {
+    "ja": "遺伝子検査",
+    "en": "genetic testing"
+  },
+  {
+    "ja": "軟膏",
+    "en": "ointment"
+  },
+  {
+    "ja": "クリーム",
+    "en": "cream"
+  },
+  {
+    "ja": "ゲル",
+    "en": "gel"
+  },
+  {
+    "ja": "ローション",
+    "en": "lotion"
+  },
+  {
+    "ja": "硬膏",
+    "en": "plaster"
+  },
+  {
+    "ja": "ステロイド外用薬",
+    "en": "topical corticosteroid"
+  },
+  {
+    "ja": "免疫抑制薬",
+    "en": "immunosuppressant"
+  },
+  {
+    "ja": "抗真菌薬",
+    "en": "antifungal agent"
+  },
+  {
+    "ja": "抗菌薬",
+    "en": "antibacterial agent"
+  },
+  {
+    "ja": "活性型ビタミンD3",
+    "en": "active vitamin D3"
+  },
+  {
+    "ja": "レチノイド",
+    "en": "retinoid"
+  },
+  {
+    "ja": "イミキモド",
+    "en": "imiquimod"
+  },
+  {
+    "ja": "尿素",
+    "en": "urea"
+  },
+  {
+    "ja": "亜鉛華",
+    "en": "zinc oxide"
+  },
+  {
+    "ja": "サリチル酸",
+    "en": "salicylic acid"
+  },
+  {
+    "ja": "サンスクリーン剤",
+    "en": "sunscreen"
+  },
+  {
+    "ja": "光線療法",
+    "en": "phototherapy"
+  },
+  {
+    "ja": "レーザー療法",
+    "en": "laser therapy"
+  },
+  {
+    "ja": "外科療法",
+    "en": "surgical treatment"
+  },
+  {
+    "ja": "湿疹",
+    "en": "eczema"
+  },
+  {
+    "ja": "急性湿疹",
+    "en": "acute eczema"
+  },
+  {
+    "ja": "慢性湿疹",
+    "en": "chronic eczema"
+  },
+  {
+    "ja": "接触皮膚炎",
+    "en": "contact dermatitis"
+  },
+  {
+    "ja": "アトピー性皮膚炎",
+    "en": "atopic dermatitis"
+  },
+  {
+    "ja": "脂漏性皮膚炎",
+    "en": "seborrheic dermatitis"
+  },
+  {
+    "ja": "貨幣状湿疹",
+    "en": "nummular eczema"
+  },
+  {
+    "ja": "慢性単純性苔癬",
+    "en": "lichen simplex chronicus"
+  },
+  {
+    "ja": "自家感作性皮膚炎",
+    "en": "autoeczematization / id reaction"
+  },
+  {
+    "ja": "うっ滞性皮膚炎",
+    "en": "stasis dermatitis"
+  },
+  {
+    "ja": "皮脂欠乏性湿疹",
+    "en": "asteatotic eczema"
+  },
+  {
+    "ja": "汗疱",
+    "en": "pompholyx"
+  },
+  {
+    "ja": "異汗性湿疹",
+    "en": "dyshidrotic eczema"
+  },
+  {
+    "ja": "Wiskott-Aldrich症候群",
+    "en": "Wiskott-Aldrich syndrome"
+  },
+  {
+    "ja": "蕁麻疹",
+    "en": "urticaria"
+  },
+  {
+    "ja": "急性蕁麻疹",
+    "en": "acute urticaria"
+  },
+  {
+    "ja": "慢性蕁麻疹",
+    "en": "chronic urticaria"
+  },
+  {
+    "ja": "接触蕁麻疹",
+    "en": "contact urticaria"
+  },
+  {
+    "ja": "物理性蕁麻疹",
+    "en": "physical urticaria"
+  },
+  {
+    "ja": "コリン性蕁麻疹",
+    "en": "cholinergic urticaria"
+  },
+  {
+    "ja": "血管性浮腫",
+    "en": "angioedema"
+  },
+  {
+    "ja": "食物依存性運動誘発アナフィラキシー",
+    "en": "food-dependent exercise-induced anaphylaxis (FDEIA)"
+  },
+  {
+    "ja": "急性痒疹",
+    "en": "acute prurigo"
+  },
+  {
+    "ja": "慢性痒疹",
+    "en": "chronic prurigo"
+  },
+  {
+    "ja": "妊娠性痒疹",
+    "en": "prurigo of pregnancy"
+  },
+  {
+    "ja": "多形妊娠疹",
+    "en": "polymorphic eruption of pregnancy"
+  },
+  {
+    "ja": "色素性痒疹",
+    "en": "prurigo pigmentosa"
+  },
+  {
+    "ja": "汎発性皮膚掻痒症",
+    "en": "generalized pruritus"
+  },
+  {
+    "ja": "限局性皮膚掻痒症",
+    "en": "localized pruritus"
+  },
+  {
+    "ja": "多形紅斑",
+    "en": "erythema multiforme"
+  },
+  {
+    "ja": "Stevens-Johnson症候群",
+    "en": "Stevens-Johnson syndrome (SJS)"
+  },
+  {
+    "ja": "Sweet症候群",
+    "en": "Sweet syndrome"
+  },
+  {
+    "ja": "手掌紅斑",
+    "en": "palmar erythema"
+  },
+  {
+    "ja": "新生児中毒性紅斑",
+    "en": "erythema toxicum neonatorum"
+  },
+  {
+    "ja": "遠心性環状紅斑",
+    "en": "erythema annulare centrifugum"
+  },
+  {
+    "ja": "匍行性迂回状紅斑",
+    "en": "erythema gyratum repens"
+  },
+  {
+    "ja": "壊死性遊走性紅斑",
+    "en": "necrolytic migratory erythema"
+  },
+  {
+    "ja": "リウマチ性環状紅斑",
+    "en": "erythema annulare rheumaticum"
+  },
+  {
+    "ja": "湿疹性紅皮症",
+    "en": "eczematous erythroderma"
+  },
+  {
+    "ja": "薬剤性紅皮症",
+    "en": "drug-induced erythroderma"
+  },
+  {
+    "ja": "乾癬性紅皮症",
+    "en": "psoriatic erythroderma"
+  },
+  {
+    "ja": "腫瘍性紅皮症",
+    "en": "paraneoplastic erythroderma"
+  },
+  {
+    "ja": "丘疹紅皮症",
+    "en": "papular erythroderma"
+  },
+  {
+    "ja": "薬疹",
+    "en": "drug eruption"
+  },
+  {
+    "ja": "アレルギー性薬疹",
+    "en": "allergic drug eruption"
+  },
+  {
+    "ja": "非アレルギー性薬疹",
+    "en": "non-allergic drug eruption"
+  },
+  {
+    "ja": "固定薬疹",
+    "en": "fixed drug eruption"
+  },
+  {
+    "ja": "中毒性表皮壊死症",
+    "en": "toxic epidermal necrolysis (TEN)"
+  },
+  {
+    "ja": "薬剤性過敏症症候群",
+    "en": "drug-induced hypersensitivity syndrome (DIHS) / DRESS"
+  },
+  {
+    "ja": "急性汎発性発疹性膿疱症",
+    "en": "acute generalized exanthematous pustulosis (AGEP)"
+  },
+  {
+    "ja": "手足症候群",
+    "en": "hand-foot syndrome"
+  },
+  {
+    "ja": "抗悪性腫瘍薬による皮疹",
+    "en": "cutaneous eruption induced by anticancer drugs"
+  },
+  {
+    "ja": "移植片対宿主病",
+    "en": "graft-versus-host disease (GVHD)"
+  },
+  {
+    "ja": "皮膚小血管性血管炎",
+    "en": "cutaneous small-vessel vasculitis"
+  },
+  {
+    "ja": "IgA血管炎",
+    "en": "IgA vasculitis"
+  },
+  {
+    "ja": "蕁麻疹様血管炎",
+    "en": "urticarial vasculitis"
+  },
+  {
+    "ja": "持久性隆起性紅斑",
+    "en": "erythema elevatum diutinum"
+  },
+  {
+    "ja": "顔面肉芽腫",
+    "en": "granuloma faciale"
+  },
+  {
+    "ja": "結節性多発動脈炎",
+    "en": "polyarteritis nodosa"
+  },
+  {
+    "ja": "皮膚型結節性多発動脈炎",
+    "en": "cutaneous polyarteritis nodosa"
+  },
+  {
+    "ja": "顕微鏡的多発血管炎",
+    "en": "microscopic polyangiitis"
+  },
+  {
+    "ja": "好酸球性多発血管炎性肉芽腫症",
+    "en": "eosinophilic granulomatosis with polyangiitis (EGPA)"
+  },
+  {
+    "ja": "多発血管炎性肉芽腫症",
+    "en": "granulomatosis with polyangiitis (GPA)"
+  },
+  {
+    "ja": "巨細胞性動脈炎",
+    "en": "giant cell arteritis"
+  },
+  {
+    "ja": "川崎病",
+    "en": "Kawasaki disease"
+  },
+  {
+    "ja": "Behcet病",
+    "en": "Behçet disease"
+  },
+  {
+    "ja": "壊疽性膿皮症",
+    "en": "pyoderma gangrenosum"
+  },
+  {
+    "ja": "Buerger病",
+    "en": "Buerger disease / thromboangiitis obliterans"
+  },
+  {
+    "ja": "Mondor病",
+    "en": "Mondor disease"
+  },
+  {
+    "ja": "血栓性静脈炎",
+    "en": "thrombophlebitis"
+  },
+  {
+    "ja": "コレステロール結晶塞栓症",
+    "en": "cholesterol crystal embolization"
+  },
+  {
+    "ja": "血小板減少性紫斑病",
+    "en": "thrombocytopenic purpura"
+  },
+  {
+    "ja": "特発性血小板減少性紫斑病",
+    "en": "immune thrombocytopenia (ITP)"
+  },
+  {
+    "ja": "クリオグロブリン血症",
+    "en": "cryoglobulinemia"
+  },
+  {
+    "ja": "色素性紫斑病",
+    "en": "pigmented purpuric dermatosis"
+  },
+  {
+    "ja": "老人性紫斑",
+    "en": "senile purpura"
+  },
+  {
+    "ja": "単純性紫斑",
+    "en": "simple purpura"
+  },
+  {
+    "ja": "ステロイド紫斑",
+    "en": "steroid purpura"
+  },
+  {
+    "ja": "Raynaud現象",
+    "en": "Raynaud phenomenon"
+  },
+  {
+    "ja": "慢性静脈不全",
+    "en": "chronic venous insufficiency"
+  },
+  {
+    "ja": "リベド",
+    "en": "livedo"
+  },
+  {
+    "ja": "肢端紅痛症",
+    "en": "erythromelalgia"
+  },
+  {
+    "ja": "リンパ浮腫",
+    "en": "lymphedema"
+  },
+  {
+    "ja": "全身性エリテマトーデス",
+    "en": "systemic lupus erythematosus (SLE)"
+  },
+  {
+    "ja": "円板状エリテマトーデス",
+    "en": "discoid lupus erythematosus (DLE)"
+  },
+  {
+    "ja": "深在性エリテマトーデス",
+    "en": "lupus panniculitis / lupus profundus"
+  },
+  {
+    "ja": "凍瘡状エリテマトーデス",
+    "en": "chilblain lupus"
+  },
+  {
+    "ja": "亜急性皮膚エリテマトーデス",
+    "en": "subacute cutaneous lupus erythematosus (SCLE)"
+  },
+  {
+    "ja": "新生児エリテマトーデス",
+    "en": "neonatal lupus erythematosus"
+  },
+  {
+    "ja": "水疱型エリテマトーデス",
+    "en": "bullous systemic lupus erythematosus"
+  },
+  {
+    "ja": "全身性強皮症",
+    "en": "systemic sclerosis"
+  },
+  {
+    "ja": "限局性強皮症",
+    "en": "localized scleroderma / morphea"
+  },
+  {
+    "ja": "好酸球性筋膜炎",
+    "en": "eosinophilic fasciitis"
+  },
+  {
+    "ja": "皮膚筋炎",
+    "en": "dermatomyositis"
+  },
+  {
+    "ja": "無筋症性皮膚筋炎",
+    "en": "clinically amyopathic dermatomyositis"
+  },
+  {
+    "ja": "混合性結合組織病",
+    "en": "mixed connective tissue disease (MCTD)"
+  },
+  {
+    "ja": "オーバーラップ症候群",
+    "en": "overlap syndrome"
+  },
+  {
+    "ja": "抗リン脂質抗体症候群",
+    "en": "antiphospholipid syndrome (APS)"
+  },
+  {
+    "ja": "熱傷",
+    "en": "burn"
+  },
+  {
+    "ja": "凍瘡",
+    "en": "chilblains / pernio"
+  },
+  {
+    "ja": "凍傷",
+    "en": "frostbite"
+  },
+  {
+    "ja": "化学熱傷",
+    "en": "chemical burn"
+  },
+  {
+    "ja": "電撃傷",
+    "en": "electrical injury"
+  },
+  {
+    "ja": "血管外漏出に伴う皮膚障害",
+    "en": "extravasation injury"
+  },
+  {
+    "ja": "放射線皮膚炎",
+    "en": "radiation dermatitis"
+  },
+  {
+    "ja": "褥瘡",
+    "en": "pressure ulcer / pressure injury"
+  },
+  {
+    "ja": "人工皮膚炎",
+    "en": "dermatitis artefacta"
+  },
+  {
+    "ja": "日光皮膚炎",
+    "en": "sunburn"
+  },
+  {
+    "ja": "光老化",
+    "en": "photoaging"
+  },
+  {
+    "ja": "光線過敏症",
+    "en": "photosensitivity"
+  },
+  {
+    "ja": "光アレルギー性皮膚炎",
+    "en": "photoallergic dermatitis"
+  },
+  {
+    "ja": "光毒性皮膚炎",
+    "en": "phototoxic dermatitis"
+  },
+  {
+    "ja": "日光蕁麻疹",
+    "en": "solar urticaria"
+  },
+  {
+    "ja": "慢性光線性皮膚炎",
+    "en": "chronic actinic dermatitis"
+  },
+  {
+    "ja": "多形日光疹",
+    "en": "polymorphous light eruption"
+  },
+  {
+    "ja": "種痘様水疱症",
+    "en": "hydroa vacciniforme"
+  },
+  {
+    "ja": "色素性乾皮症",
+    "en": "xeroderma pigmentosum"
+  },
+  {
+    "ja": "表皮水疱症",
+    "en": "epidermolysis bullosa"
+  },
+  {
+    "ja": "単純型表皮水疱症",
+    "en": "epidermolysis bullosa simplex (EBS)"
+  },
+  {
+    "ja": "接合部型表皮水疱症",
+    "en": "junctional epidermolysis bullosa (JEB)"
+  },
+  {
+    "ja": "栄養障害型表皮水疱症",
+    "en": "dystrophic epidermolysis bullosa (DEB)"
+  },
+  {
+    "ja": "Hailey-Hailey病",
+    "en": "Hailey-Hailey disease"
+  },
+  {
+    "ja": "尋常性天疱瘡",
+    "en": "pemphigus vulgaris"
+  },
+  {
+    "ja": "増殖性天疱瘡",
+    "en": "pemphigus vegetans"
+  },
+  {
+    "ja": "落葉状天疱瘡",
+    "en": "pemphigus foliaceus"
+  },
+  {
+    "ja": "紅斑性天疱瘡",
+    "en": "pemphigus erythematosus"
+  },
+  {
+    "ja": "腫瘍随伴性天疱瘡",
+    "en": "paraneoplastic pemphigus"
+  },
+  {
+    "ja": "薬剤誘発性天疱瘡",
+    "en": "drug-induced pemphigus"
+  },
+  {
+    "ja": "新生児天疱瘡",
+    "en": "pemphigus neonatorum"
+  },
+  {
+    "ja": "IgA天疱瘡",
+    "en": "IgA pemphigus"
+  },
+  {
+    "ja": "疱疹状天疱瘡",
+    "en": "pemphigus herpetiformis"
+  },
+  {
+    "ja": "水疱性類天疱瘡",
+    "en": "bullous pemphigoid"
+  },
+  {
+    "ja": "妊娠性類天疱瘡",
+    "en": "pemphigoid gestationis"
+  },
+  {
+    "ja": "粘膜類天疱瘡",
+    "en": "mucous membrane pemphigoid"
+  },
+  {
+    "ja": "後天性表皮水疱症",
+    "en": "epidermolysis bullosa acquisita (EBA)"
+  },
+  {
+    "ja": "疱疹状皮膚炎",
+    "en": "dermatitis herpetiformis"
+  },
+  {
+    "ja": "線状IgA水疱性皮膚症",
+    "en": "linear IgA bullous dermatosis"
+  },
+  {
+    "ja": "掌蹠膿疱症",
+    "en": "palmoplantar pustulosis"
+  },
+  {
+    "ja": "角層下膿疱症",
+    "en": "subcorneal pustular dermatosis"
+  },
+  {
+    "ja": "好酸球性膿疱性毛包炎",
+    "en": "eosinophilic pustular folliculitis"
+  },
+  {
+    "ja": "急性汎発性膿疱性細菌疹",
+    "en": "acute generalized pustular bacterid"
+  },
+  {
+    "ja": "尋常性魚鱗癬",
+    "en": "ichthyosis vulgaris"
+  },
+  {
+    "ja": "X連鎖性劣性魚鱗癬",
+    "en": "X-linked recessive ichthyosis"
+  },
+  {
+    "ja": "道化師様魚鱗癬",
+    "en": "harlequin ichthyosis"
+  },
+  {
+    "ja": "葉状魚鱗癬",
+    "en": "lamellar ichthyosis"
+  },
+  {
+    "ja": "先天性魚鱗癬様紅皮症",
+    "en": "congenital ichthyosiform erythroderma"
+  },
+  {
+    "ja": "表皮融解性魚鱗癬",
+    "en": "epidermolytic ichthyosis"
+  },
+  {
+    "ja": "長島型掌蹠角化症",
+    "en": "Nagashima-type palmoplantar keratoderma"
+  },
+  {
+    "ja": "Unna-Thost型掌蹠角化症",
+    "en": "Unna-Thost palmoplantar keratoderma"
+  },
+  {
+    "ja": "Vorner型掌蹠角化症",
+    "en": "Vörner palmoplantar keratoderma"
+  },
+  {
+    "ja": "点状掌蹠角化症",
+    "en": "punctate palmoplantar keratoderma"
+  },
+  {
+    "ja": "線状掌蹠角化症",
+    "en": "linear palmoplantar keratoderma"
+  },
+  {
+    "ja": "メレダ病",
+    "en": "Mal de Meleda"
+  },
+  {
+    "ja": "Vohwinkel症候群",
+    "en": "Vohwinkel syndrome"
+  },
+  {
+    "ja": "Papillon-Lefèvre症候群",
+    "en": "Papillon-Lefèvre syndrome"
+  },
+  {
+    "ja": "Darier病",
+    "en": "Darier disease"
+  },
+  {
+    "ja": "乾癬",
+    "en": "psoriasis"
+  },
+  {
+    "ja": "尋常性乾癬",
+    "en": "plaque psoriasis"
+  },
+  {
+    "ja": "滴状乾癬",
+    "en": "guttate psoriasis"
+  },
+  {
+    "ja": "膿疱性乾癬",
+    "en": "pustular psoriasis"
+  },
+  {
+    "ja": "乾癬性関節炎",
+    "en": "psoriatic arthritis"
+  },
+  {
+    "ja": "毛孔性紅色粃糠疹",
+    "en": "pityriasis rubra pilaris (PRP)"
+  },
+  {
+    "ja": "扁平苔癬",
+    "en": "lichen planus"
+  },
+  {
+    "ja": "線状苔癬",
+    "en": "lichen striatus"
+  },
+  {
+    "ja": "光沢苔癬",
+    "en": "lichen nitidus"
+  },
+  {
+    "ja": "ばら色粃糠疹",
+    "en": "pityriasis rosea"
+  },
+  {
+    "ja": "鶏眼",
+    "en": "corn"
+  },
+  {
+    "ja": "胼胝",
+    "en": "callus"
+  },
+  {
+    "ja": "毛孔性角化症",
+    "en": "keratosis pilaris"
+  },
+  {
+    "ja": "黒色表皮腫",
+    "en": "acanthosis nigricans"
+  },
+  {
+    "ja": "後天性魚鱗癬",
+    "en": "acquired ichthyosis"
+  },
+  {
+    "ja": "眼皮膚白皮症",
+    "en": "oculocutaneous albinism (OCA)"
+  },
+  {
+    "ja": "尋常性白斑",
+    "en": "vitiligo"
+  },
+  {
+    "ja": "まだら症",
+    "en": "piebaldism"
+  },
+  {
+    "ja": "Sutton母斑",
+    "en": "halo nevus"
+  },
+  {
+    "ja": "Vogt・小柳・原田病",
+    "en": "Vogt-Koyanagi-Harada disease"
+  },
+  {
+    "ja": "特発性滴状色素減少症",
+    "en": "idiopathic guttate hypomelanosis"
+  },
+  {
+    "ja": "脱色素性母斑",
+    "en": "nevus depigmentosus"
+  },
+  {
+    "ja": "雀卵斑",
+    "en": "ephelides"
+  },
+  {
+    "ja": "肝斑",
+    "en": "melasma"
+  },
+  {
+    "ja": "Riehl黒皮症",
+    "en": "Riehl melanosis"
+  },
+  {
+    "ja": "摩擦黒皮症",
+    "en": "frictional melanosis"
+  },
+  {
+    "ja": "老人性色素斑",
+    "en": "solar lentigo"
+  },
+  {
+    "ja": "Addison病",
+    "en": "Addison disease"
+  },
+  {
+    "ja": "光線性花弁状色素斑",
+    "en": "actinic lentigines / petal-like pigment macules"
+  },
+  {
+    "ja": "色素異常性固定紅斑",
+    "en": "fixed drug eruption with hyperpigmentation"
+  },
+  {
+    "ja": "柑皮症",
+    "en": "carotenemia"
+  },
+  {
+    "ja": "銀皮症",
+    "en": "argyria"
+  },
+  {
+    "ja": "刺青",
+    "en": "tattoo"
+  },
+  {
+    "ja": "皮膚限局性アミロイドーシス",
+    "en": "primary localized cutaneous amyloidosis"
+  },
+  {
+    "ja": "アミロイド苔癬",
+    "en": "lichen amyloidosis"
+  },
+  {
+    "ja": "斑状アミロイドーシス",
+    "en": "macular amyloidosis"
+  },
+  {
+    "ja": "結節性皮膚アミロイドーシス",
+    "en": "nodular cutaneous amyloidosis"
+  },
+  {
+    "ja": "ALアミロイドーシス",
+    "en": "AL amyloidosis"
+  },
+  {
+    "ja": "AAアミロイドーシス",
+    "en": "AA amyloidosis"
+  },
+  {
+    "ja": "透析アミロイドーシス",
+    "en": "dialysis-related amyloidosis"
+  },
+  {
+    "ja": "浮腫性硬化症",
+    "en": "scleredema"
+  },
+  {
+    "ja": "汎発性粘液水腫",
+    "en": "generalized myxedema"
+  },
+  {
+    "ja": "脛骨前粘液水腫",
+    "en": "pretibial myxedema"
+  },
+  {
+    "ja": "毛包性ムチン沈着症",
+    "en": "follicular mucinosis"
+  },
+  {
+    "ja": "結節性黄色腫",
+    "en": "tuberous xanthoma"
+  },
+  {
+    "ja": "腱黄色腫",
+    "en": "tendon xanthoma"
+  },
+  {
+    "ja": "眼瞼黄色腫",
+    "en": "xanthelasma"
+  },
+  {
+    "ja": "発疹性黄色腫",
+    "en": "eruptive xanthoma"
+  },
+  {
+    "ja": "亜鉛欠乏症候群",
+    "en": "zinc deficiency syndrome"
+  },
+  {
+    "ja": "ヘモクロマトーシス",
+    "en": "hemochromatosis"
+  },
+  {
+    "ja": "Menkes病",
+    "en": "Menkes disease"
+  },
+  {
+    "ja": "皮膚石灰沈着症",
+    "en": "calcinosis cutis"
+  },
+  {
+    "ja": "カルシフィラキシー",
+    "en": "calciphylaxis"
+  },
+  {
+    "ja": "ペラグラ",
+    "en": "pellagra"
+  },
+  {
+    "ja": "ビオチン欠乏症",
+    "en": "biotin deficiency"
+  },
+  {
+    "ja": "壊血病",
+    "en": "scurvy"
+  },
+  {
+    "ja": "先天性骨髄性ポルフィリン症",
+    "en": "congenital erythropoietic porphyria"
+  },
+  {
+    "ja": "骨髄性プロトポルフィリン症",
+    "en": "erythropoietic protoporphyria"
+  },
+  {
+    "ja": "多様性ポルフィリン症",
+    "en": "variegate porphyria"
+  },
+  {
+    "ja": "晩発性皮膚ポルフィリン症",
+    "en": "porphyria cutanea tarda"
+  },
+  {
+    "ja": "糖尿病性壊疽",
+    "en": "diabetic gangrene"
+  },
+  {
+    "ja": "リポイド類壊死症",
+    "en": "necrobiosis lipoidica"
+  },
+  {
+    "ja": "糖尿病性水疱症",
+    "en": "bullosis diabeticorum"
+  },
+  {
+    "ja": "皮膚伸展線条",
+    "en": "striae distensae"
+  },
+  {
+    "ja": "皮膚老化",
+    "en": "skin aging"
+  },
+  {
+    "ja": "硬化性苔癬",
+    "en": "lichen sclerosus"
+  },
+  {
+    "ja": "Werner症候群",
+    "en": "Werner syndrome"
+  },
+  {
+    "ja": "Rothmund-Thomson症候群",
+    "en": "Rothmund-Thomson syndrome"
+  },
+  {
+    "ja": "外胚葉形成異常症",
+    "en": "ectodermal dysplasia"
+  },
+  {
+    "ja": "先天性皮膚欠損症",
+    "en": "aplasia cutis congenita"
+  },
+  {
+    "ja": "穿孔性皮膚症",
+    "en": "perforating dermatosis"
+  },
+  {
+    "ja": "蛇行性穿孔性弾力線維症",
+    "en": "elastosis perforans serpiginosa"
+  },
+  {
+    "ja": "反応性穿孔性膠原線維症",
+    "en": "reactive perforating collagenosis"
+  },
+  {
+    "ja": "サルコイドーシス",
+    "en": "sarcoidosis"
+  },
+  {
+    "ja": "環状肉芽腫",
+    "en": "granuloma annulare"
+  },
+  {
+    "ja": "Ehlers-Danlos症候群",
+    "en": "Ehlers-Danlos syndrome"
+  },
+  {
+    "ja": "Marfan症候群",
+    "en": "Marfan syndrome"
+  },
+  {
+    "ja": "弾性線維性仮性黄色腫",
+    "en": "pseudoxanthoma elasticum"
+  },
+  {
+    "ja": "結節性紅斑",
+    "en": "erythema nodosum"
+  },
+  {
+    "ja": "硬結性紅斑",
+    "en": "erythema induratum"
+  },
+  {
+    "ja": "好酸球性蜂窩織炎",
+    "en": "eosinophilic cellulitis / Wells syndrome"
+  },
+  {
+    "ja": "外傷性脂肪組織炎",
+    "en": "traumatic panniculitis"
+  },
+  {
+    "ja": "新生児皮下脂肪壊死症",
+    "en": "subcutaneous fat necrosis of the newborn"
+  },
+  {
+    "ja": "リポジストロフィー",
+    "en": "lipodystrophy"
+  },
+  {
+    "ja": "先天性全身型リポジストロフィー",
+    "en": "congenital generalized lipodystrophy"
+  },
+  {
+    "ja": "汗疹",
+    "en": "miliaria"
+  },
+  {
+    "ja": "臭汗症",
+    "en": "bromhidrosis"
+  },
+  {
+    "ja": "Fox-Fordyce病",
+    "en": "Fox-Fordyce disease"
+  },
+  {
+    "ja": "多汗症",
+    "en": "hyperhidrosis"
+  },
+  {
+    "ja": "無汗症",
+    "en": "anhidrosis"
+  },
+  {
+    "ja": "乏汗症",
+    "en": "hypohidrosis"
+  },
+  {
+    "ja": "尋常性ざ瘡",
+    "en": "acne vulgaris"
+  },
+  {
+    "ja": "酒さ",
+    "en": "rosacea"
+  },
+  {
+    "ja": "酒さ様皮膚炎",
+    "en": "perioral dermatitis"
+  },
+  {
+    "ja": "顔面播種状粟粒性狼瘡",
+    "en": "lupus miliaris disseminatus faciei"
+  },
+  {
+    "ja": "円形脱毛症",
+    "en": "alopecia areata"
+  },
+  {
+    "ja": "男性型脱毛症",
+    "en": "androgenetic alopecia"
+  },
+  {
+    "ja": "先天性脱毛症",
+    "en": "congenital alopecia"
+  },
+  {
+    "ja": "トリコチロマニア",
+    "en": "trichotillomania"
+  },
+  {
+    "ja": "瘢痕性脱毛症",
+    "en": "cicatricial alopecia"
+  },
+  {
+    "ja": "爪甲剥離症",
+    "en": "onycholysis"
+  },
+  {
+    "ja": "爪甲脱落症",
+    "en": "onychomadesis"
+  },
+  {
+    "ja": "爪甲肥厚症",
+    "en": "onychauxis / pachyonychia"
+  },
+  {
+    "ja": "爪甲縦溝",
+    "en": "longitudinal ridging"
+  },
+  {
+    "ja": "爪甲横溝",
+    "en": "Beau's lines"
+  },
+  {
+    "ja": "点状陥凹",
+    "en": "nail pitting"
+  },
+  {
+    "ja": "陥入爪",
+    "en": "ingrown nail / onychocryptosis"
+  },
+  {
+    "ja": "母斑細胞母斑",
+    "en": "melanocytic nevus"
+  },
+  {
+    "ja": "境界母斑",
+    "en": "junctional nevus"
+  },
+  {
+    "ja": "複合母斑",
+    "en": "compound nevus"
+  },
+  {
+    "ja": "真皮内母斑",
+    "en": "intradermal nevus"
+  },
+  {
+    "ja": "巨大先天性色素性母斑",
+    "en": "congenital melanocytic nevus"
+  },
+  {
+    "ja": "Spitz母斑",
+    "en": "Spitz nevus"
+  },
+  {
+    "ja": "Clark母斑",
+    "en": "Clark nevus"
+  },
+  {
+    "ja": "青色母斑",
+    "en": "blue nevus"
+  },
+  {
+    "ja": "太田母斑",
+    "en": "nevus of Ota"
+  },
+  {
+    "ja": "後天性真皮メラノサイトーシス",
+    "en": "acquired dermal melanocytosis"
+  },
+  {
+    "ja": "蒙古斑",
+    "en": "Mongolian spot"
+  },
+  {
+    "ja": "疣贅状表皮母斑",
+    "en": "verrucous epidermal nevus"
+  },
+  {
+    "ja": "脂腺母斑",
+    "en": "nevus sebaceus"
+  },
+  {
+    "ja": "面皰母斑",
+    "en": "nevus comedonicus"
+  },
+  {
+    "ja": "結合組織母斑",
+    "en": "connective tissue nevus"
+  },
+  {
+    "ja": "カフェオレ斑",
+    "en": "café-au-lait macule"
+  },
+  {
+    "ja": "Becker母斑",
+    "en": "Becker nevus"
+  },
+  {
+    "ja": "貧血母斑",
+    "en": "nevus anemicus"
+  },
+  {
+    "ja": "神経線維腫症1型",
+    "en": "neurofibromatosis type 1"
+  },
+  {
+    "ja": "神経線維腫症2型",
+    "en": "neurofibromatosis type 2"
+  },
+  {
+    "ja": "結節性硬化症",
+    "en": "tuberous sclerosis complex"
+  },
+  {
+    "ja": "Peutz-Jeghers症候群",
+    "en": "Peutz-Jeghers syndrome"
+  },
+  {
+    "ja": "色素失調症",
+    "en": "incontinentia pigmenti"
+  },
+  {
+    "ja": "Sturge-Weber症候群",
+    "en": "Sturge-Weber syndrome"
+  },
+  {
+    "ja": "Klippel-Trenaunay-Weber症候群",
+    "en": "Klippel-Trenaunay syndrome"
+  },
+  {
+    "ja": "母斑性基底細胞癌症候群",
+    "en": "basal cell nevus syndrome / Gorlin syndrome"
+  },
+  {
+    "ja": "遺伝性出血性毛細血管拡張症",
+    "en": "hereditary hemorrhagic telangiectasia"
+  },
+  {
+    "ja": "Maffucci症候群",
+    "en": "Maffucci syndrome"
+  },
+  {
+    "ja": "脂漏性角化症",
+    "en": "seborrheic keratosis"
+  },
+  {
+    "ja": "澄明細胞性棘細胞腫",
+    "en": "clear cell acanthoma"
+  },
+  {
+    "ja": "汗孔角化症",
+    "en": "porokeratosis"
+  },
+  {
+    "ja": "毛包腫",
+    "en": "trichofolliculoma"
+  },
+  {
+    "ja": "毛包腺腫",
+    "en": "follicular adenoma"
+  },
+  {
+    "ja": "毛包上皮腫",
+    "en": "trichoepithelioma"
+  },
+  {
+    "ja": "毛芽腫",
+    "en": "trichoblastoma"
+  },
+  {
+    "ja": "毛母腫",
+    "en": "pilomatricoma"
+  },
+  {
+    "ja": "外毛根鞘腫",
+    "en": "trichilemmoma"
+  },
+  {
+    "ja": "脂腺増殖症",
+    "en": "sebaceous hyperplasia"
+  },
+  {
+    "ja": "脂腺腺腫",
+    "en": "sebaceous adenoma"
+  },
+  {
+    "ja": "汗管腫",
+    "en": "syringoma"
+  },
+  {
+    "ja": "エクリン汗孔腫",
+    "en": "poroma"
+  },
+  {
+    "ja": "皮膚混合腫瘍",
+    "en": "mixed tumor of the skin"
+  },
+  {
+    "ja": "円柱腫",
+    "en": "cylindroma"
+  },
+  {
+    "ja": "類表皮嚢腫",
+    "en": "epidermoid cyst"
+  },
+  {
+    "ja": "稗粒腫",
+    "en": "milium"
+  },
+  {
+    "ja": "皮様嚢腫",
+    "en": "dermoid cyst"
+  },
+  {
+    "ja": "毛巣洞",
+    "en": "pilonidal sinus"
+  },
+  {
+    "ja": "神経線維腫",
+    "en": "neurofibroma"
+  },
+  {
+    "ja": "神経鞘腫",
+    "en": "schwannoma"
+  },
+  {
+    "ja": "乳児血管腫",
+    "en": "infantile hemangioma"
+  },
+  {
+    "ja": "化膿性肉芽腫",
+    "en": "pyogenic granuloma / lobular capillary hemangioma"
+  },
+  {
+    "ja": "グロムス腫瘍",
+    "en": "glomus tumor"
+  },
+  {
+    "ja": "静脈湖",
+    "en": "venous lake"
+  },
+  {
+    "ja": "軟性線維腫",
+    "en": "acrochordon / soft fibroma"
+  },
+  {
+    "ja": "皮膚線維腫",
+    "en": "dermatofibroma"
+  },
+  {
+    "ja": "ケロイド",
+    "en": "keloid"
+  },
+  {
+    "ja": "黄色肉芽腫",
+    "en": "juvenile xanthogranuloma"
+  },
+  {
+    "ja": "脂肪腫",
+    "en": "lipoma"
+  },
+  {
+    "ja": "基底細胞癌",
+    "en": "basal cell carcinoma (BCC)"
+  },
+  {
+    "ja": "有棘細胞癌",
+    "en": "squamous cell carcinoma (SCC)"
+  },
+  {
+    "ja": "日光角化症",
+    "en": "actinic keratosis"
+  },
+  {
+    "ja": "Bowen病",
+    "en": "Bowen disease"
+  },
+  {
+    "ja": "白板症",
+    "en": "leukoplakia"
+  },
+  {
+    "ja": "ケラトアカントーマ",
+    "en": "keratoacanthoma"
+  },
+  {
+    "ja": "脂腺癌",
+    "en": "sebaceous carcinoma"
+  },
+  {
+    "ja": "乳房Paget病",
+    "en": "mammary Paget disease"
+  },
+  {
+    "ja": "乳房外Paget病",
+    "en": "extramammary Paget disease"
+  },
+  {
+    "ja": "エクリン汗孔癌",
+    "en": "porocarcinoma"
+  },
+  {
+    "ja": "微小嚢胞性付属器癌",
+    "en": "microcystic adnexal carcinoma"
+  },
+  {
+    "ja": "Merkel細胞癌",
+    "en": "Merkel cell carcinoma"
+  },
+  {
+    "ja": "悪性末梢神経鞘腫瘍",
+    "en": "malignant peripheral nerve sheath tumor (MPNST)"
+  },
+  {
+    "ja": "隆起性皮膚線維肉腫",
+    "en": "dermatofibrosarcoma protuberans (DFSP)"
+  },
+  {
+    "ja": "脂肪肉腫",
+    "en": "liposarcoma"
+  },
+  {
+    "ja": "血管肉腫",
+    "en": "angiosarcoma"
+  },
+  {
+    "ja": "Kaposi肉腫",
+    "en": "Kaposi sarcoma"
+  },
+  {
+    "ja": "類上皮肉腫",
+    "en": "epithelioid sarcoma"
+  },
+  {
+    "ja": "未分化多形細胞肉腫",
+    "en": "undifferentiated pleomorphic sarcoma"
+  },
+  {
+    "ja": "菌状息肉症",
+    "en": "mycosis fungoides"
+  },
+  {
+    "ja": "Sezary症候群",
+    "en": "Sézary syndrome"
+  },
+  {
+    "ja": "成人T細胞白血病／リンパ腫",
+    "en": "adult T-cell leukemia/lymphoma (ATL)"
+  },
+  {
+    "ja": "原発性皮膚未分化大細胞リンパ腫",
+    "en": "primary cutaneous anaplastic large-cell lymphoma"
+  },
+  {
+    "ja": "リンパ腫様丘疹症",
+    "en": "lymphomatoid papulosis"
+  },
+  {
+    "ja": "原発性皮膚辺縁帯B細胞リンパ腫",
+    "en": "primary cutaneous marginal zone B-cell lymphoma"
+  },
+  {
+    "ja": "原発性皮膚濾胞中心リンパ腫",
+    "en": "primary cutaneous follicle center lymphoma"
+  },
+  {
+    "ja": "Langerhans細胞組織球症",
+    "en": "Langerhans cell histiocytosis"
+  },
+  {
+    "ja": "悪性黒色腫",
+    "en": "malignant melanoma"
+  },
+  {
+    "ja": "皮膚転移",
+    "en": "cutaneous metastasis"
+  },
+  {
+    "ja": "単純ヘルペスウイルス感染症",
+    "en": "herpes simplex virus infection"
+  },
+  {
+    "ja": "水痘",
+    "en": "varicella"
+  },
+  {
+    "ja": "帯状疱疹",
+    "en": "herpes zoster"
+  },
+  {
+    "ja": "尋常性疣贅",
+    "en": "verruca vulgaris"
+  },
+  {
+    "ja": "扁平疣贅",
+    "en": "flat wart / verruca plana"
+  },
+  {
+    "ja": "尖圭コンジローマ",
+    "en": "condyloma acuminatum"
+  },
+  {
+    "ja": "Bowen様丘疹症",
+    "en": "bowenoid papulosis"
+  },
+  {
+    "ja": "疣贅状表皮発育異常症",
+    "en": "epidermodysplasia verruciformis"
+  },
+  {
+    "ja": "伝染性軟属腫",
+    "en": "molluscum contagiosum"
+  },
+  {
+    "ja": "麻疹",
+    "en": "measles"
+  },
+  {
+    "ja": "風疹",
+    "en": "rubella"
+  },
+  {
+    "ja": "突発性発疹",
+    "en": "roseola infantum"
+  },
+  {
+    "ja": "伝染性紅斑",
+    "en": "erythema infectiosum"
+  },
+  {
+    "ja": "Gianotti-Crosti症候群",
+    "en": "Gianotti-Crosti syndrome"
+  },
+  {
+    "ja": "手足口病",
+    "en": "hand, foot and mouth disease"
+  },
+  {
+    "ja": "伝染性単核球症",
+    "en": "infectious mononucleosis"
+  },
+  {
+    "ja": "デング熱",
+    "en": "dengue fever"
+  },
+  {
+    "ja": "後天性免疫不全症候群",
+    "en": "acquired immunodeficiency syndrome (AIDS)"
+  },
+  {
+    "ja": "伝染性膿痂疹",
+    "en": "impetigo"
+  },
+  {
+    "ja": "水疱性膿痂疹",
+    "en": "bullous impetigo"
+  },
+  {
+    "ja": "痂皮性膿痂疹",
+    "en": "nonbullous impetigo"
+  },
+  {
+    "ja": "丹毒",
+    "en": "erysipelas"
+  },
+  {
+    "ja": "蜂窩織炎",
+    "en": "cellulitis"
+  },
+  {
+    "ja": "毛包炎",
+    "en": "folliculitis"
+  },
+  {
+    "ja": "せつ",
+    "en": "furuncle"
+  },
+  {
+    "ja": "癰",
+    "en": "carbuncle"
+  },
+  {
+    "ja": "細菌性爪囲炎",
+    "en": "bacterial paronychia"
+  },
+  {
+    "ja": "ブドウ球菌性熱傷様皮膚症候群",
+    "en": "staphylococcal scalded skin syndrome (SSSS)"
+  },
+  {
+    "ja": "トキシックショック症候群",
+    "en": "toxic shock syndrome (TSS)"
+  },
+  {
+    "ja": "猩紅熱",
+    "en": "scarlet fever"
+  },
+  {
+    "ja": "壊死性筋膜炎",
+    "en": "necrotizing fasciitis"
+  },
+  {
+    "ja": "ガス壊疽",
+    "en": "gas gangrene"
+  },
+  {
+    "ja": "敗血症",
+    "en": "sepsis"
+  },
+  {
+    "ja": "Osler結節",
+    "en": "Osler nodes"
+  },
+  {
+    "ja": "紅色陰癬",
+    "en": "erythrasma"
+  },
+  {
+    "ja": "点状角質融解症",
+    "en": "pitted keratolysis"
+  },
+  {
+    "ja": "猫ひっかき病",
+    "en": "cat-scratch disease"
+  },
+  {
+    "ja": "放線菌症",
+    "en": "actinomycosis"
+  },
+  {
+    "ja": "ノカルジア症",
+    "en": "nocardiosis"
+  },
+  {
+    "ja": "白癬",
+    "en": "tinea / dermatophytosis"
+  },
+  {
+    "ja": "足白癬",
+    "en": "tinea pedis"
+  },
+  {
+    "ja": "爪白癬",
+    "en": "tinea unguium / onychomycosis"
+  },
+  {
+    "ja": "手白癬",
+    "en": "tinea manuum"
+  },
+  {
+    "ja": "体部白癬",
+    "en": "tinea corporis"
+  },
+  {
+    "ja": "顔面白癬",
+    "en": "tinea faciei"
+  },
+  {
+    "ja": "股部白癬",
+    "en": "tinea cruris"
+  },
+  {
+    "ja": "頭部白癬",
+    "en": "tinea capitis"
+  },
+  {
+    "ja": "Celsus禿瘡",
+    "en": "kerion celsi"
+  },
+  {
+    "ja": "白癬菌性肉芽腫",
+    "en": "Majocchi granuloma"
+  },
+  {
+    "ja": "カンジダ症",
+    "en": "candidiasis"
+  },
+  {
+    "ja": "カンジダ性間擦疹",
+    "en": "candidal intertrigo"
+  },
+  {
+    "ja": "カンジダ性指趾間びらん症",
+    "en": "candidal interdigital erosion"
+  },
+  {
+    "ja": "カンジダ性爪囲炎",
+    "en": "candidal paronychia"
+  },
+  {
+    "ja": "口腔カンジダ症",
+    "en": "oral candidiasis"
+  },
+  {
+    "ja": "性器カンジダ症",
+    "en": "genital candidiasis"
+  },
+  {
+    "ja": "慢性皮膚粘膜カンジダ症",
+    "en": "chronic mucocutaneous candidiasis"
+  },
+  {
+    "ja": "癜風",
+    "en": "pityriasis versicolor"
+  },
+  {
+    "ja": "マラセチア毛包炎",
+    "en": "Malassezia folliculitis"
+  },
+  {
+    "ja": "スポロトリコーシス",
+    "en": "sporotrichosis"
+  },
+  {
+    "ja": "クロモブラストミコーシス",
+    "en": "chromoblastomycosis"
+  },
+  {
+    "ja": "菌腫",
+    "en": "mycetoma"
+  },
+  {
+    "ja": "皮膚アスペルギルス症",
+    "en": "cutaneous aspergillosis"
+  },
+  {
+    "ja": "皮膚クリプトコッカス症",
+    "en": "cutaneous cryptococcosis"
+  },
+  {
+    "ja": "パラコクシジオイデス症",
+    "en": "paracoccidioidomycosis"
+  },
+  {
+    "ja": "コクシジオイデス症",
+    "en": "coccidioidomycosis"
+  },
+  {
+    "ja": "北米ブラストミセス症",
+    "en": "North American blastomycosis"
+  },
+  {
+    "ja": "ヒストプラスマ症",
+    "en": "histoplasmosis"
+  },
+  {
+    "ja": "皮膚ムコール症",
+    "en": "cutaneous mucormycosis"
+  },
+  {
+    "ja": "皮膚結核",
+    "en": "cutaneous tuberculosis"
+  },
+  {
+    "ja": "皮膚腺病",
+    "en": "scrofuloderma"
+  },
+  {
+    "ja": "尋常性狼瘡",
+    "en": "lupus vulgaris"
+  },
+  {
+    "ja": "皮膚疣状結核",
+    "en": "tuberculosis verrucosa cutis"
+  },
+  {
+    "ja": "硬結性紅斑",
+    "en": "erythema induratum"
+  },
+  {
+    "ja": "丘疹壊疽性結核疹",
+    "en": "papulonecrotic tuberculid"
+  },
+  {
+    "ja": "腺病性苔癬",
+    "en": "lichen scrofulosorum"
+  },
+  {
+    "ja": "BCG副反応",
+    "en": "BCG adverse reaction"
+  },
+  {
+    "ja": "Mycobacterium marinum感染症",
+    "en": "Mycobacterium marinum infection"
+  },
+  {
+    "ja": "Mycobacterium avium感染症",
+    "en": "Mycobacterium avium infection"
+  },
+  {
+    "ja": "Mycobacterium chelonae感染症",
+    "en": "Mycobacterium chelonae infection"
+  },
+  {
+    "ja": "Mycobacterium fortuitum感染症",
+    "en": "Mycobacterium fortuitum infection"
+  },
+  {
+    "ja": "ブルーリ潰瘍",
+    "en": "Buruli ulcer"
+  },
+  {
+    "ja": "ハンセン病",
+    "en": "leprosy / Hansen disease"
+  },
+  {
+    "ja": "梅毒",
+    "en": "syphilis"
+  },
+  {
+    "ja": "第1期梅毒",
+    "en": "primary syphilis"
+  },
+  {
+    "ja": "第2期梅毒",
+    "en": "secondary syphilis"
+  },
+  {
+    "ja": "潜伏梅毒",
+    "en": "latent syphilis"
+  },
+  {
+    "ja": "第3期梅毒",
+    "en": "tertiary syphilis"
+  },
+  {
+    "ja": "神経梅毒",
+    "en": "neurosyphilis"
+  },
+  {
+    "ja": "先天梅毒",
+    "en": "congenital syphilis"
+  },
+  {
+    "ja": "軟性下疳",
+    "en": "chancroid"
+  },
+  {
+    "ja": "性病性リンパ肉芽腫",
+    "en": "lymphogranuloma venereum (LGV)"
+  },
+  {
+    "ja": "虫刺症",
+    "en": "insect bite reaction"
+  },
+  {
+    "ja": "蚊アレルギー",
+    "en": "mosquito allergy"
+  },
+  {
+    "ja": "毛虫皮膚炎",
+    "en": "caterpillar dermatitis"
+  },
+  {
+    "ja": "線状皮膚炎",
+    "en": "linear dermatitis"
+  },
+  {
+    "ja": "シラミ症",
+    "en": "pediculosis"
+  },
+  {
+    "ja": "疥癬",
+    "en": "scabies"
+  },
+  {
+    "ja": "マダニ刺咬症",
+    "en": "tick bite"
+  },
+  {
+    "ja": "トコジラミ刺症",
+    "en": "bedbug bites"
+  },
+  {
+    "ja": "ライム病",
+    "en": "Lyme disease"
+  },
+  {
+    "ja": "ツツガムシ病",
+    "en": "scrub typhus"
+  },
+  {
+    "ja": "リーシュマニア症",
+    "en": "leishmaniasis"
+  },
+  {
+    "ja": "デング熱",
+    "en": "dengue fever"
+  },
+  {
+    "ja": "クリーピング病",
+    "en": "cutaneous larva migrans"
+  },
+  {
+    "ja": "リンパ系フィラリア症",
+    "en": "lymphatic filariasis"
+  },
+  {
+    "ja": "遺伝性皮膚疾患",
+    "en": "hereditary skin disease / genodermatosis"
+  },
+  {
+    "ja": "遺伝相談",
+    "en": "genetic counseling"
+  },
+  {
+    "ja": "出生前診断",
+    "en": "prenatal diagnosis"
+  },
+  {
+    "ja": "胎児皮膚生検",
+    "en": "fetal skin biopsy"
+  },
+  {
+    "ja": "絨毛生検",
+    "en": "chorionic villus sampling (CVS)"
+  },
+  {
+    "ja": "羊水穿刺",
+    "en": "amniocentesis"
+  },
+  {
+    "ja": "遺伝子治療",
+    "en": "gene therapy"
+  },
+  {
+    "ja": "再生治療",
+    "en": "regenerative therapy"
+  }
+]
